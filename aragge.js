@@ -80,10 +80,15 @@ function query(registration, callback) {
   }); 
 }
 
+// The following list contains:
+// 'registration ID' : 'Owner'
 var planes = {
- 'HB-JXD': 'Somebody',
- 'M-DADA': 'Somebody',
- 'N903G': 'Somebody'
+ // Equatorial Guinea
+ '3C-EGE' : '',
+ '3C-ONM' : '',
+ '3C-LGE' : '',
+ '3C-LLU' : '',
+ 'CS-TQX' : '',
 };
 
 
@@ -105,7 +110,7 @@ query(process.argv[2], function(error, flights) {
       var flight = flights[i];
       var reg = flight['Reg.'];
       if (process.argv[2] || reg in planes) {
-        var str = (reg in planes ? planes[reg] + "'s plane, " : '')
+        var str = (reg in planes && planes[reg] ? planes[reg] + "'s plane, " : '')
          + reg + ' ' + (flight.M_Type.match(/Landing/) ? 'arrived in' : 'left')
          + ' Geneva on ' + flight.Date + ' at ' + flight.Time;
         console.log(str);
