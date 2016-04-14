@@ -1,0 +1,26 @@
+{
+  "name": "geneva-dictators",
+  "version": "1.0.0",
+  "description": "Monitor and tweet dicators' planes landing/taking off GVA",
+  "main": "aragge.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.71.0",
+    "time": "^0.11.4",
+    "twitter": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lefranz/geneva-dictators.git"
+  },
+  "author": "J. and F. Pilet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lefranz/geneva-dictators/issues"
+  },
+  "homepage": "https://github.com/lefranz/geneva-dictators#readme"
+}
