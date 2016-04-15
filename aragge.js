@@ -91,8 +91,10 @@ var planes = {
  'CS-TQX' : 'Boeing 777 used by Ecuatorial Guinea government',
  // Easyjet regs for test
  'HB-JXA' : 'easyjet test reg',
- 'HB-JYN' : 'easyjet test reg',
+ 'HB-JYN' : 'easyjet test reg'
 };
+
+var testPlanes = { 'HB-JXA' : 1, 'HB-JYN': 1 };
 
 
 function tweet(str) {
@@ -113,9 +115,12 @@ query(process.argv[2], function(error, flights) {
       var flight = flights[i];
       var reg = flight['Reg.'];
       if (process.argv[2] || reg in planes) {
-        var str = (reg in planes && planes[reg] ? planes[reg] + "'s plane, " : '')
-         + reg + ' ' + (flight.M_Type.match(/Landing/) ? 'arrived in' : 'left')
-         + ' Geneva on ' + flight.Date + ' at ' + flight.Time;
+        var verb = (flight.M_Type.match(/Landing/) ? 'landed at' : 'left');
+        var str = 
+          (reg in testPlanes ? '(test) A plane' : 'A dicator\'s plane')
+          + ' ' + verb + ' #gva airport: '
+          + (reg in planes && planes[reg] ? planes[reg] + " (" + reg +')' : reg)
+          + ' on ' + flight.Date + ' at ' + flight.Time;
         console.log(str);
         tweet(str);
       }
