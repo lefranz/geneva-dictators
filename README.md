@@ -19,5 +19,7 @@ https://www.transparency.org/country/#GNQ
  'CS-TQX' : 'Boeing 777 used by Equatorial Guinea government'<br>
  
 ### Kazakhstan	
+https://www.transparency.org/country/#KAZ
+
  'P4-KAZ' : 'Boeing 737 used by Kazakhstan government'
  
