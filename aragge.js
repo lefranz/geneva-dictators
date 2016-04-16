@@ -89,6 +89,9 @@ var planes = {
  '3C-LGE' : 'Flacon 50 used by Equatorial Guinea government',
  '3C-LLU' : 'Boeing 767 used by Equatorial Guinea government',
  'CS-TQX' : 'Boeing 777 used by Equatorial Guinea government',
+ // Kazakhstan	
+ 'P4-KAZ' : 'Boeing 737 used by Kazakhstan government'
+ 
 };
 
 var testPlanes = { 'HB-JXA' : 1, 'HB-JYN': 1 };
