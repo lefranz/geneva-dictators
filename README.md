@@ -14,7 +14,7 @@ https://www.transparency.org/country/#GNQ
  '3C-LLU' : 'Boeing 767 used by Equatorial Guinea government'<br>
  'CS-TQX' : 'Boeing 777 used by Equatorial Guinea government'<br>
  
- ### Kazakhstan	
+### Kazakhstan	
  'P4-KAZ' : 'Boeing 737 used by Kazakhstan government'
  
  Help us grow this list by sending new planes registrations to francois@vesper.media
