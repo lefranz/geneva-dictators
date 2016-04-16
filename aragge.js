@@ -117,7 +117,7 @@ query(process.argv[2], function(error, flights) {
       if (process.argv[2] || reg in planes) {
         var verb = (flight.M_Type.match(/Landing/) ? 'landed at' : 'left');
         var str = 
-          (reg in testPlanes ? '(test) A plane' : 'A dicator\'s plane')
+          (reg in testPlanes ? '(test) A plane' : 'A dictator\'s plane')
           + ' ' + verb + ' #gva airport: '
           + (reg in planes && planes[reg] ? planes[reg] + " (" + reg +')' : reg)
           + ' on ' + flight.Date + ' at ' + flight.Time;
