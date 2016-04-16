@@ -1,6 +1,6 @@
 # GVA Dictator Alert
 
-This TwitterBot is tracking jets used by autocratic governments landing and leaving Geneva Airport. The results are posted on:
+This TwitterBot is tracking planes registered to autocratic governments landing and leaving Geneva Airport. The results are posted on:
 https://twitter.com/GVA_Watcher
 
 Help us grow this list by sending new planes registrations to francois@vesper.media
