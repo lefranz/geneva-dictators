@@ -3,6 +3,10 @@
 This TwitterBot is tracking jets used by dictatorial governments landing and leaving Geneva Airport. The results are posted on:
 https://twitter.com/GVA_Watcher
 
+Help us grow this list by sending new planes registrations to francois@vesper.media
+
+Project by @julienpilet and @FrancoisPilet
+
 ## Current list of tracked planes:
 
 ### Equatorial Guinea
@@ -17,6 +21,3 @@ https://www.transparency.org/country/#GNQ
 ### Kazakhstan	
  'P4-KAZ' : 'Boeing 737 used by Kazakhstan government'
  
- Help us grow this list by sending new planes registrations to francois@vesper.media
-
-Project by @julienpilet and @FrancoisPilet
