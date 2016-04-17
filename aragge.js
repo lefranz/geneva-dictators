@@ -12,7 +12,7 @@ var client = new Twitter({
   access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
 });
 
-var url = 'http://aragge.ch/cgi-bin/test_data.pl';
+var url = 'http://aragge.ch/cgi-bin/data_frame.pl';
 
 var now = new Date();
 now.setTimezone('Europe/Zurich');
