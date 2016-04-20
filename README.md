@@ -8,29 +8,30 @@ Help us grow this list by sending new planes registrations to francois@vesper.me
 Project by <a href="https://twitter.com/julienpilet">@julienpilet</a> and <a href="https://twitter.com/FrancoisPilet">@FrancoisPilet</a>
 
 ## Current list of tracked planes:
- ### Azerbaijan<br>
+
+### Azerbaijan
  '4K-AIO1' : 'Boeing 767 "Baku 1" used by Azerbaijan government'<br>
  '4K-AI06' : 'Gulfstream G550 used by Azerbaijan government'<br><br>
  
- ### Belarus<br>
+### Belarus
  'EW-001PA' : 'Boeing 737 used by Belarus government'<br>
  'EW-001PB' : 'Boeing 767 used by Belarus government'<br><br>
  
- ### Cameroon<br>
+### Cameroon
  'TJ-AAC' : 'Boeing 767 used by Cameroon government'<br><br>
 
- ### Equatorial Guinea<br>
+### Equatorial Guinea
  '3C-EGE' : 'Boeing 737 used by Teodoro Obiang, Equatorial Guinea',<br>
  '3C-ONM' : 'Dassault 900B used by Teodorin Obiang, Equatorial Guinea',<br>
  '3C-LGE' : 'Flacon 50 used by Equatorial Guinea government',<br>
  '3C-LLU' : 'Boeing 767 used by Equatorial Guinea government',<br>
  'CS-TQX' : 'Boeing 777 used by Equatorial Guinea government',<br><br>
  
- ### Kazakhstan	<br>
+### Kazakhstan
  'P4-KAZ' : 'Boeing 737 used by Kazakhstan government'<br>
  'UP-A2001' : 'Airbus A320 used Kazakhstan government'<br>
  'UP-A3001' : 'Airbus A330 used Kazakhstan government'<br>
  'UP-B5701' : 'Boeing 757 used Kazakhstan government'<br><br>
  
- ### Libya<br>
+### Libya
  '5A-ONE' : 'Airbus A340 used Libyan government'<br>
