@@ -84,15 +84,15 @@ function query(registration, callback) {
 // 'registration ID' : 'Owner'
 var planes = {
  // Azerbaijan
- '4K-AIO1' : 'Boeing 767 "Baku 1" used by Azerbaijan government'
- '4K-AI06' : 'Gulfstream G550 used by Azerbaijan government'
+ '4K-AIO1' : 'Boeing 767 "Baku 1" used by Azerbaijan government',
+ '4K-AI06' : 'Gulfstream G550 used by Azerbaijan government',
  
  // Belarus
- 'EW-001PA' : 'Boeing 737 used by Belarus government'
- 'EW-001PB' : 'Boeing 767 used by Belarus government'
+ 'EW-001PA' : 'Boeing 737 used by Belarus government',
+ 'EW-001PB' : 'Boeing 767 used by Belarus government',
  
  //Cameroon
- 'TJ-AAC' : 'Boeing 767 used by Cameroon government'
+ 'TJ-AAC' : 'Boeing 767 used by Cameroon government',
 
 
  // Equatorial Guinea
@@ -103,13 +103,13 @@ var planes = {
  'CS-TQX' : 'Boeing 777 used by Equatorial Guinea government',
  
  // Kazakhstan	
- 'P4-KAZ' : 'Boeing 737 used by Kazakhstan government'
- 'UP-A2001' : 'Airbus A320 used Kazakhstan government'
- 'UP-A3001' : 'Airbus A330 used Kazakhstan government'
- 'UP-B5701' : 'Boeing 757 used Kazakhstan government'
+ 'P4-KAZ' : 'Boeing 737 used by Kazakhstan government',
+ 'UP-A2001' : 'Airbus A320 used Kazakhstan government',
+ 'UP-A3001' : 'Airbus A330 used Kazakhstan government',
+ 'UP-B5701' : 'Boeing 757 used Kazakhstan government',
  
  //Libya
- '5A-ONE' : 'Airbus A340 used Libyan government'
+ '5A-ONE' : 'Airbus A340 used Libyan government',
 
 };
 
