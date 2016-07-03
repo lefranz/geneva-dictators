@@ -98,7 +98,7 @@ var planes = {
  // Equatorial Guinea
  '3C-EGE' : 'Boeing 737 used by Teodoro Obiang, Equatorial Guinea',
  '3C-ONM' : 'Dassault 900B used by Teodorin Obiang, Equatorial Guinea',
- '3C-LGE' : 'Flacon 50 used by Equatorial Guinea government',
+ '3C-LGE' : 'Falcon 50 used by Equatorial Guinea government',
  '3C-LLU' : 'Boeing 767 used by Equatorial Guinea government',
  'CS-TQX' : 'Boeing 777 used by Equatorial Guinea government',
  
