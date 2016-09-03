@@ -111,6 +111,19 @@ var planes = {
  //Libya
  '5A-ONE' : 'Airbus A340 used Libyan government',
 
+ // Saudi Arabia
+ // Source: http://i.dailymail.co.uk/i/pix/2015/07/01/16/2A25797C00000578-3145792-The_prince_has_several_planes_including_the_smaller_A_Hawker_jet-a-12_1435765095892.jpg
+ 'HZ-WBT7' : 'Prince Al Waleed\'s Boeing 747',
+ 'HZ-WBT5' : 'Prince Al Waleed\'s Hawker',
+
+ // Bahrain
+ // Source: https://www.youtube.com/watch?v=XlRT3ruTnkU
+ 'A9C-HMK' : 'Boeing 747 used by the king of Bahrain',
+
+ // Qatar
+ // Source https://www.youtube.com/watch?v=-BCVLX7Pdfc
+ 'VQ-BSK' : 'Boeing 747 used by the royal family of Qatar'
+
 };
 
 var testPlanes = { 'HB-JXA' : 1, 'HB-JYN': 1 };
