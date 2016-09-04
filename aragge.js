@@ -136,9 +136,32 @@ var planes = {
  // Source: http://www.philstar.com/world/2015/09/02/1495088/china-parade-draws-putin-few-other-major-world-leaders
  'ST-PRA' : 'Il-62 used by Omar Al-Bashir',
 
+ // Oman
+ // The Royal Flight of Oman caters for the need of the royals
+ 'A4O-AJ' : 'A319 of the Oman royal family',
+ 'A4O-AA' : 'A320 of the Oman royal family',
+ 'A4O-OMN' : 'B747 of the Oman royal family',
+ 'A4O-HMS' : 'B747 of the Oman royal family',
+ 'A4O-SO' : 'B747 of the Oman royal family',
+ 'A4O-AD' : 'Gulfstream of the Oman royal family',
+ 'A4O-AE' : 'Gulfstream of the Oman royal family',
+
+ // Brunei
+ 'V8-001' : 'A340 used by the sultan of Brunei',
+ 'V8-ALI' : 'B747 used by the sultan of Brunei',
+ 'V8-MHB' : 'B767 used by the sultan of Brunei',
+
+ // Algeria
+ // Source: http://www.liberation.fr/planete/2014/11/15/le-president-algerien-bouteflika-a-quitte-la-clinique-de-grenoble_1143663
+ '7T-VPM' : 'Gulfstream used by the Algerian government',
+
  // Morocco
  // Source: https://en.wikipedia.org/wiki/Air_transports_of_heads_of_state_and_government#/media/File:Boeing_737-8KB(BBJ2)_Morocco_-_Air_Force,_LUX_Luxembourg_(Findel),_Luxembourg_PP1350626872.jpg
- 'CN-MVI' : 'Boeing 737 used by the king of Morocco and his family'
+ 'CN-MVI' : 'Boeing 737 used by the king of Morocco and his family',
+
+ // Chad
+ // Source: http://www.airteamimages.com/mcdonnell-douglas-md-80_TT-ABC_chad-government_93128.html
+ 'TT-ABC' : 'MD-87 used by the government of Chad'
 };
 
 var testPlanes = { 'HB-JXA' : 1, 'HB-JYN': 1 };
