@@ -115,6 +115,12 @@ var planes = {
  // Source: http://i.dailymail.co.uk/i/pix/2015/07/01/16/2A25797C00000578-3145792-The_prince_has_several_planes_including_the_smaller_A_Hawker_jet-a-12_1435765095892.jpg
  'HZ-WBT7' : 'Prince Al Waleed\'s Boeing 747',
  'HZ-WBT5' : 'Prince Al Waleed\'s Hawker',
+ // "Saudi Arabian Royal Flight" planes operate for the ruling family
+ 'HZ-HMS2' : 'A340 for use by the royal family',
+ 'HZ-HMS1' : 'B747 registered to Prince Sultan Bin Abdulaziz',
+ 'HZ-HM1B' : 'B747 for the use of the royal family',
+ 'HZ-HM1A' : 'B747 for the use of the royal family',
+ 'HZ-HM1C' : 'B747 for the use of the royal family',
 
  // Bahrain
  // Source: https://www.youtube.com/watch?v=XlRT3ruTnkU
@@ -122,8 +128,17 @@ var planes = {
 
  // Qatar
  // Source https://www.youtube.com/watch?v=-BCVLX7Pdfc
- 'VQ-BSK' : 'Boeing 747 used by the royal family of Qatar'
+ 'VQ-BSK' : 'Boeing 747 used by the royal family of Qatar',
 
+ // Sudan
+ // Source: http://www.airplane-pictures.net/photo/465501/st-prm-sudan-government-antonov-an-72/
+ 'ST-PRM' : 'An-72 of the Sudanese government',
+ // Source: http://www.philstar.com/world/2015/09/02/1495088/china-parade-draws-putin-few-other-major-world-leaders
+ 'ST-PRA' : 'Il-62 used by Omar Al-Bashir',
+
+ // Morocco
+ // Source: https://en.wikipedia.org/wiki/Air_transports_of_heads_of_state_and_government#/media/File:Boeing_737-8KB(BBJ2)_Morocco_-_Air_Force,_LUX_Luxembourg_(Findel),_Luxembourg_PP1350626872.jpg
+ 'CN-MVI' : 'Boeing 737 used by the king of Morocco and his family'
 };
 
 var testPlanes = { 'HB-JXA' : 1, 'HB-JYN': 1 };
