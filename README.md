@@ -52,9 +52,9 @@ Project by <a href="https://twitter.com/julienpilet">@julienpilet</a> and <a hre
 ### Kazakhstan
 
 * 'P4-KAZ' : 'Boeing 737 used by Kazakhstan government'
-* 'UP-A2001' : 'Airbus A320 used Kazakhstan government'
-* 'UP-A3001' : 'Airbus A330 used Kazakhstan government'
-* 'UP-B5701' : 'Boeing 757 used Kazakhstan government'
+* 'UP-A2001' : 'Airbus A320 used by Kazakhstan government'
+* 'UP-A3001' : 'Airbus A330 used by Kazakhstan government'
+* 'UP-B5701' : 'Boeing 757 used by Kazakhstan government'
  
 ### Libya
 
