@@ -46,6 +46,11 @@ Project by <a href="https://twitter.com/julienpilet">@julienpilet</a> and <a hre
 
 * 'HZ-WBT7' : 'Prince Al Waleed's Boeing 747'
 * 'HZ-WBT5' : 'Prince Al Waleed's Hawker'
+* 'HZ-HMS2' : 'A340 for use by the royal family'
+* 'HZ-HMS1' : 'B747 registered to Prince Sultan Bin Abdulaziz'
+* 'HZ-HM1B' : 'B747 for the use of the Saudi family'
+* 'HZ-HM1A' : 'B747 for the use of the Saudi family'
+* 'HZ-HM1C' : 'B747 for the use of the Saudi family'
 
 ### Qatar
 
@@ -54,3 +59,12 @@ Project by <a href="https://twitter.com/julienpilet">@julienpilet</a> and <a hre
 ### Bahrain
 
 * 'A9C-HMK' : 'Boeing 747 used by the king of Bahrain'
+
+### Sudan
+
+* 'ST-PRM' : 'An-72 of the Sudanese government'
+* 'ST-PRA' : 'Il-62 used by Omar Al-Bashir'
+
+### Morocco
+
+* 'CN-MVI' : 'Boeing 737 used by the king of Morocco and his family'
