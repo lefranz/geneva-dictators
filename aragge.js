@@ -128,7 +128,24 @@ var planes = {
 
  // Qatar
  // Source https://www.youtube.com/watch?v=-BCVLX7Pdfc
+ // https://en.wikipedia.org/wiki/Qatar_Amiri_Flight
+ // http://www.airframes.org/fleet/qaf
  'VQ-BSK' : 'Boeing 747 used by the royal family of Qatar',
+ 'A7-AAG' : 'A320 used by the royal family of Qatar',
+ 'A7-AAH' : 'A340 used by the royal family of Qatar',
+ 'A7-AAM' : 'Bombardier BD-700 used by the royal family of Qatar',
+ 'A7-AFE' : 'A310 used by the royal family of Qatar',
+ 'A7-HHE' : 'Boeing 747 used by the royal family of Qatar',
+ 'A7-HHH' : 'A340 used by the royal family of Qatar',
+ 'A7-HHJ' : 'A319 used by the royal family of Qatar',
+ 'A7-HHK' : 'A340 used by the royal family of Qatar',
+ 'A7-HHM' : 'A330 used by the royal family of Qatar',
+ 'A7-HJJ' : 'A330 used by the royal family of Qatar',
+ 'A7-HSJ' : 'A320 used by the royal family of Qatar',
+ 'A7-MBK' : 'A320 used by the royal family of Qatar',
+ 'A7-MED' : 'A319 used by the royal family of Qatar',
+ 'A7-MHH' : 'A319 used by the royal family of Qatar',
+ 'VP-BAT' : 'Boeing 747 used by the royal family of Qatar',
 
  // Sudan
  // Source: http://www.airplane-pictures.net/photo/465501/st-prm-sudan-government-antonov-an-72/
