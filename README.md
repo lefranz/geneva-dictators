@@ -77,6 +77,22 @@ Project by <a href="https://twitter.com/julienpilet">@julienpilet</a> and <a hre
 ### Qatar
 
 * 'VQ-BSK' : 'Boeing 747 used by the royal family of Qatar'
+*  'VQ-BSK' : 'Boeing 747 used by the royal family of Qatar',
+*  'A7-AAG' : 'A320 used by the royal family of Qatar',
+*  'A7-AAH' : 'A340 used by the royal family of Qatar',
+*  'A7-AAM' : 'Bombardier BD-700 used by the royal family of Qatar',
+*  'A7-AFE' : 'A310 used by the royal family of Qatar',
+*  'A7-HHE' : 'Boeing 747 used by the royal family of Qatar',
+*  'A7-HHH' : 'A340 used by the royal family of Qatar',
+*  'A7-HHJ' : 'A319 used by the royal family of Qatar',
+*  'A7-HHK' : 'A340 used by the royal family of Qatar'
+*  'A7-HHM' : 'A330 used by the royal family of Qatar'
+*  'A7-HJJ' : 'A330 used by the royal family of Qatar',
+*  'A7-HSJ' : 'A320 used by the royal family of Qatar',
+*  'A7-MBK' : 'A320 used by the royal family of Qatar',
+*  'A7-MED' : 'A319 used by the royal family of Qatar',
+*  'A7-MHH' : 'A319 used by the royal family of Qatar',
+*  'VP-BAT' : 'Boeing 747 used by the royal family of Qatar',
 
 ### Saudi Arabia
 
