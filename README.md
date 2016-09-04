@@ -9,19 +9,37 @@ Project by <a href="https://twitter.com/julienpilet">@julienpilet</a> and <a hre
 
 ## Current list of tracked planes:
 
+### Algeria
+
+* '7T-VPM' : 'Gulfstream used by the Algerian government'
+
 ### Azerbaijan
 
 * '4K-AIO1' : 'Boeing 767 "Baku 1" used by Azerbaijan government'
 * '4K-AI06' : 'Gulfstream G550 used by Azerbaijan government'
  
+### Bahrain
+
+* 'A9C-HMK' : 'Boeing 747 used by the king of Bahrain'
+
 ### Belarus
 
 * 'EW-001PA' : 'Boeing 737 used by Belarus government'
 * 'EW-001PB' : 'Boeing 767 used by Belarus government'
+
+### Brunei
+
+* 'V8-001' : 'A340 used by the sultan of Brunei'
+* 'V8-ALI' : 'B747 used by the sultan of Brunei'
+* 'V8-MHB' : 'B767 used by the sultan of Brunei'
  
 ### Cameroon
 
 * 'TJ-AAC' : 'Boeing 767 used by Cameroon government'
+
+### Chad
+
+* 'TT-ABC' : 'MD-87 used by the government of Chad'
 
 ### Equatorial Guinea
 
@@ -42,6 +60,24 @@ Project by <a href="https://twitter.com/julienpilet">@julienpilet</a> and <a hre
 
 * '5A-ONE' : 'Airbus A340 used Libyan government'
 
+### Morocco
+
+* 'CN-MVI' : 'Boeing 737 used by the king of Morocco and his family'
+
+### Oman
+
+* 'A4O-AJ' : 'A319 of the Oman royal family'
+* 'A4O-AA' : 'A320 of the Oman royal family'
+* 'A4O-OMN' : 'B747 of the Oman royal family'
+* 'A4O-HMS' : 'B747 of the Oman royal family'
+* 'A4O-SO' : 'B747 of the Oman royal family'
+* 'A4O-AD' : 'Gulfstream of the Oman royal family'
+* 'A4O-AE' : 'Gulfstream of the Oman royal family'
+
+### Qatar
+
+* 'VQ-BSK' : 'Boeing 747 used by the royal family of Qatar'
+
 ### Saudi Arabia
 
 * 'HZ-WBT7' : 'Prince Al Waleed's Boeing 747'
@@ -52,19 +88,8 @@ Project by <a href="https://twitter.com/julienpilet">@julienpilet</a> and <a hre
 * 'HZ-HM1A' : 'B747 for the use of the Saudi family'
 * 'HZ-HM1C' : 'B747 for the use of the Saudi family'
 
-### Qatar
-
-* 'VQ-BSK' : 'Boeing 747 used by the royal family of Qatar'
-
-### Bahrain
-
-* 'A9C-HMK' : 'Boeing 747 used by the king of Bahrain'
-
 ### Sudan
 
 * 'ST-PRM' : 'An-72 of the Sudanese government'
 * 'ST-PRA' : 'Il-62 used by Omar Al-Bashir'
 
-### Morocco
-
-* 'CN-MVI' : 'Boeing 737 used by the king of Morocco and his family'
