@@ -83,6 +83,21 @@ function query(registration, callback) {
 // The following list contains:
 // 'registration ID' : 'Owner'
 var planes = {
+  // Algeria
+ '7T-VPP' : 'Airbus A340 VIP used by Algerian government',
+ '7T-VPF' : 'ATR42 used by Algerian government',
+ '7T-VPE' : 'ATR42 used by Algerian government',
+ '7T-VPS' : 'Gulfstream IV used by Algerian government',
+ '7T-VPC' : 'Gulfstream IV used by Algerian government',
+ '7T-VPM' : 'Gulfstream IV used by Algerian government',
+ '7T-VPG' : 'Gulfstream V used by Algerian government',
+ 
+ // Angola
+ 'D2-EYU' : 'De Havilland Dash 8 used by Angola government',
+ 'D2-EEA' : 'De Havilland Dash 8 used by Angola government',
+ 'D2-EEB' : 'De Havilland Dash 8 used by Angola government',
+
+ 
  // Azerbaijan
  '4K-AIO1' : 'Boeing 767 "Baku 1" used by Azerbaijan government',
  '4K-AI06' : 'Gulfstream G550 used by Azerbaijan government',
@@ -94,7 +109,6 @@ var planes = {
  //Cameroon
  'TJ-AAC' : 'Boeing 767 used by Cameroon government',
 
-
  // Equatorial Guinea
  '3C-EGE' : 'Boeing 737 used by Teodoro Obiang, Equatorial Guinea',
  '3C-ONM' : 'Dassault 900B used by Teodorin Obiang, Equatorial Guinea',
@@ -102,14 +116,41 @@ var planes = {
  '3C-LLU' : 'Boeing 767 used by Equatorial Guinea government',
  'CS-TQX' : 'Boeing 777 used by Equatorial Guinea government',
  
+ // Gabon
+ 'TR-KJD' : 'ATR 42M used by Gabonese government',
+ 'TR-KPR' : 'Boeing 777 VIP used by Gabonese government',
+ 
+ // Ivory Coast
+ 'TU-VAD' : 'Gulfstream IV used by Ivory Coast government',
+ 'TU-VAS' : 'A319 VIP used by Ivory Coast government',
+
+ //Jordan
+ 'VQ-BDD' : 'Airbus A318 Elite used by Jordanian government',
+ 
  // Kazakhstan	
  'P4-KAZ' : 'Boeing 737 used by Kazakhstan government',
  'UP-A2001' : 'Airbus A320 used by Kazakhstan government',
  'UP-A3001' : 'Airbus A330 used by Kazakhstan government',
  'UP-B5701' : 'Boeing 757 used by Kazakhstan government',
  
- //Libya
+ // Kuwait
+ '9K-GBA' : 'Airbus A340 VIP used by Kuwait government',
+ '9K-GBB' : 'Airbus A340 VIP used by Kuwait government',
+ '9K-AKD' : 'Airbus A320 VIP used by Kuwait government',
+ '9K-GEA' : 'Airbus A319 VIP used by Kuwait government',
+ '9K-GCC' : 'Boeing 737 VIP used by Kuwait government',
+ '9K-GAA' : 'Boeing 747 VIP used by Kuwait government',
+ '9K-AJD' : 'Gulfstream V used by Kuwait government',
+ '9K-AJE' : 'Gulfstream V used by Kuwait government',
+ '9K-AJF' : 'Gulfstream V used by Kuwait government',
+ '9K-GFA' : 'Gulfstream 550 used by Kuwait government',
+ 
+ // Libya
  '5A-ONE' : 'Airbus A340 used Libyan government',
+ 
+ // Russia
+ 'RA-96016' : 'Ilyushin Il-96 used Russian president Vladimir Putin',
+ 'RA-96017' : 'Ilyushin Il-96 used Russian president Vladimir Putin',
 
  // Saudi Arabia
  // Source: http://i.dailymail.co.uk/i/pix/2015/07/01/16/2A25797C00000578-3145792-The_prince_has_several_planes_including_the_smaller_A_Hawker_jet-a-12_1435765095892.jpg
