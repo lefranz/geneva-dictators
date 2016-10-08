@@ -163,18 +163,9 @@ var planes = {
  'A4O-AD' : 'Gulfstream of the Oman royal family',
  'A4O-AE' : 'Gulfstream of the Oman royal family',
 
- // Brunei
- 'V8-001' : 'A340 used by the sultan of Brunei',
- 'V8-ALI' : 'B747 used by the sultan of Brunei',
- 'V8-MHB' : 'B767 used by the sultan of Brunei',
-
  // Algeria
  // Source: http://www.liberation.fr/planete/2014/11/15/le-president-algerien-bouteflika-a-quitte-la-clinique-de-grenoble_1143663
  '7T-VPM' : 'Gulfstream used by the Algerian government',
-
- // Morocco
- // Source: https://en.wikipedia.org/wiki/Air_transports_of_heads_of_state_and_government#/media/File:Boeing_737-8KB(BBJ2)_Morocco_-_Air_Force,_LUX_Luxembourg_(Findel),_Luxembourg_PP1350626872.jpg
- 'CN-MVI' : 'Boeing 737 used by the king of Morocco and his family',
 
  // Chad
  // Source: http://www.airteamimages.com/mcdonnell-douglas-md-80_TT-ABC_chad-government_93128.html
