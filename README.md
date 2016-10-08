@@ -1,11 +1,19 @@
 # GVA Dictator Alert
 
-This TwitterBot is tracking planes registered to autocratic governments landing and leaving Geneva Airport. The results are posted on:
+This TwitterBot is tracking planes registered to authoritarian regimes landing and leaving Geneva Airport. The results are posted on:
 https://twitter.com/GVA_Watcher
 
 Help us grow this list by sending new planes registrations to francois@vesper.media
 
 Project by <a href="https://twitter.com/julienpilet">@julienpilet</a> and <a href="https://twitter.com/FrancoisPilet">@FrancoisPilet</a>
+
+## Who's a dictator?
+
+GVA Dictator Alert is tracking planes registered to or used by governements described as "authoritarian regimes" according to the Democracy Index (2015) compiled by the Economist Intelligence Unit.
+
+Read more about the Democracy Index here:
+https://en.wikipedia.org/wiki/Democracy_Index
+http://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2015
 
 ## Current list of tracked planes:
 
@@ -26,12 +34,6 @@ Project by <a href="https://twitter.com/julienpilet">@julienpilet</a> and <a hre
 
 * 'EW-001PA' : 'Boeing 737 used by Belarus government'
 * 'EW-001PB' : 'Boeing 767 used by Belarus government'
-
-### Brunei
-
-* 'V8-001' : 'A340 used by the sultan of Brunei'
-* 'V8-ALI' : 'B747 used by the sultan of Brunei'
-* 'V8-MHB' : 'B767 used by the sultan of Brunei'
  
 ### Cameroon
 
@@ -59,10 +61,6 @@ Project by <a href="https://twitter.com/julienpilet">@julienpilet</a> and <a hre
 ### Libya
 
 * '5A-ONE' : 'Airbus A340 used Libyan government'
-
-### Morocco
-
-* 'CN-MVI' : 'Boeing 737 used by the king of Morocco and his family'
 
 ### Oman
 
