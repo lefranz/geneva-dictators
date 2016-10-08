@@ -9,7 +9,7 @@ Project by <a href="https://twitter.com/julienpilet">@julienpilet</a> and <a hre
 
 ## Who's a dictator?
 
-GVA Dictator Alert is tracking planes registered to or used by governements described as "authoritarian regimes" according to the Democracy Index (2015) compiled by the Economist Intelligence Unit.
+GVA Dictator Alert is tracking planes registered to or used by governments described as "authoritarian regimes" according to the Democracy Index (2015) compiled by the Economist Intelligence Unit.
 
 Read more about the Democracy Index here:
 https://en.wikipedia.org/wiki/Democracy_Index
