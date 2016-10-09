@@ -146,3 +146,8 @@ http://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2015
 * 'ST-PRM' : 'An-72 of the Sudanese government'
 * 'ST-PRA' : 'Il-62 used by Omar Al-Bashir'
 
+### Turkmenistan
+* 'EZ-A777' : 'Boeing 777 VIP used by Turkmenistan government',
+* 'EZ-A007' : 'Boeing 737 VIP used by Turkmenistan government',
+* 'EZ-B024' : 'Challenger 870 used by Turkmenistan government',
+
