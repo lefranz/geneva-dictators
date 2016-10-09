@@ -146,7 +146,7 @@ var planes = {
  '9K-GFA' : 'Gulfstream 550 used by Kuwait government',
  
  // Libya
- '5A-ONE' : 'Airbus A340 used Libyan government',
+ '5A-ONE' : 'Airbus A340 used by Libyan government',
  
  // Russia
  'RA-96016' : 'Ilyushin Il-96 used Russian president Vladimir Putin',
@@ -162,6 +162,11 @@ var planes = {
  'HZ-HM1B' : 'B747 for the use of the royal family',
  'HZ-HM1A' : 'B747 for the use of the royal family',
  'HZ-HM1C' : 'B747 for the use of the royal family',
+ 
+ // Turkmenistan
+ 'EZ-A777' : 'Boeing 777 VIP used by Turkmenistan government',
+ 'EZ-A007' : 'Boeing 737 VIP used by Turkmenistan government',
+ 'EZ-B024' : 'Challenger 870 used by Turkmenistan government',
 
  // Bahrain
  // Source: https://www.youtube.com/watch?v=XlRT3ruTnkU
