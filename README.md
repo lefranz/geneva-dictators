@@ -19,24 +19,24 @@ http://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2015
 
 ### Algeria
 
-* '7T-VPP' : 'Airbus A340 VIP used by Algerian government',
-* '7T-VPF' : 'ATR42 used by Algerian government',
-* '7T-VPE' : 'ATR42 used by Algerian government',
-* '7T-VPS' : 'Gulfstream IV used by Algerian government',
-* '7T-VPC' : 'Gulfstream IV used by Algerian government',
-* '7T-VPM' : 'Gulfstream IV used by Algerian government',
-* '7T-VPG' : 'Gulfstream V used by Algerian government',
+* '7T-VPP' : 'Airbus A340 VIP used by Algerian government'
+* '7T-VPF' : 'ATR42 used by Algerian government'
+* '7T-VPE' : 'ATR42 used by Algerian government'
+* '7T-VPS' : 'Gulfstream IV used by Algerian government'
+* '7T-VPC' : 'Gulfstream IV used by Algerian government'
+* '7T-VPM' : 'Gulfstream IV used by Algerian government'
+* '7T-VPG' : 'Gulfstream V used by Algerian government'
 
 ### Angola
-* 'D2-EYU' : 'De Havilland Dash 8 used by Angola government',
-* 'D2-EEA' : 'De Havilland Dash 8 used by Angola government',
-* 'D2-EEB' : 'De Havilland Dash 8 used by Angola government',
- 
+* 'D2-EYU' : 'De Havilland Dash 8 used by Angola government'
+* 'D2-EEA' : 'De Havilland Dash 8 used by Angola government'
+* 'D2-EEB' : 'De Havilland Dash 8 used by Angola government'
+
 ### Azerbaijan
 
 * '4K-AIO1' : 'Boeing 767 "Baku 1" used by Azerbaijan government'
 * '4K-AI06' : 'Gulfstream G550 used by Azerbaijan government'
- 
+
 ### Bahrain
 
 * 'A9C-HMK' : 'Boeing 747 used by the king of Bahrain'
@@ -45,7 +45,7 @@ http://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2015
 
 * 'EW-001PA' : 'Boeing 737 used by Belarus government'
 * 'EW-001PB' : 'Boeing 767 used by Belarus government'
- 
+
 ### Cameroon
 
 * 'TJ-AAC' : 'Boeing 767 used by Cameroon government'
@@ -55,8 +55,8 @@ http://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2015
 * 'TT-ABC' : 'MD-87 used by the government of Chad'
 
 ### Gabon
-* 'TR-KJD' : 'ATR 42M used by Gabonese government',
-* 'TR-KPR' : 'Boeing 777 VIP used by Gabonese government',
+* 'TR-KJD' : 'ATR 42M used by Gabonese government'
+* 'TR-KPR' : 'Boeing 777 VIP used by Gabonese government'
 
 ### Equatorial Guinea
 
@@ -66,13 +66,21 @@ http://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2015
 * '3C-LLU' : 'Boeing 767 used by Equatorial Guinea government'
 * 'CS-TQX' : 'Boeing 777 used by Equatorial Guinea government'
 
+### Iran
+* 'EP-AJA' : 'Airbus A340 used by the Iran government'
+* 'EP-AJC' : 'Airbus A320 used by the Iran government'
+* 'EP-AJD' : 'Boeing 707 used by the Iran government'
+* 'EP-AGA' : 'Boeing 737 used by the Iran government'
+* 'EP-AGB' : 'Airbus A321 used by the Iran government'
+* 'EP-TFI' : 'Dassault Falcon 50 used by the Iran government'
+
 ### Ivory Coast
-* 'TU-VAD' : 'Gulfstream IV used by Ivory Coast government',
-* 'TU-VAS' : 'A319 VIP used by Ivory Coast government',
+* 'TU-VAD' : 'Gulfstream IV used by Ivory Coast government'
+* 'TU-VAS' : 'A319 VIP used by Ivory Coast government'
 
 ### Jordan
-* 'VQ-BDD' : 'Airbus A318 Elite used by Jordanian government',
- 
+* 'VQ-BDD' : 'Airbus A318 Elite used by Jordanian government'
+
 ### Kazakhstan
 
 * 'P4-KAZ' : 'Boeing 737 used by Kazakhstan government'
@@ -82,17 +90,17 @@ http://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2015
 
 ### Kuwait
 
-* '9K-GBA' : 'Airbus A340 VIP used by Kuwait government',
-* '9K-GBB' : 'Airbus A340 VIP used by Kuwait government',
-* '9K-AKD' : 'Airbus A320 VIP used by Kuwait government',
-* '9K-GEA' : 'Airbus A319 VIP used by Kuwait government',
-* '9K-GCC' : 'Boeing 737 VIP used by Kuwait government',
-* '9K-GAA' : 'Boeing 747 VIP used by Kuwait government',
-* '9K-AJD' : 'Gulfstream V used by Kuwait government',
-* '9K-AJE' : 'Gulfstream V used by Kuwait government',
-* '9K-AJF' : 'Gulfstream V used by Kuwait government',
-* '9K-GFA' : 'Gulfstream 550 used by Kuwait government',
- 
+* '9K-GBA' : 'Airbus A340 VIP used by Kuwait government'
+* '9K-GBB' : 'Airbus A340 VIP used by Kuwait government'
+* '9K-AKD' : 'Airbus A320 VIP used by Kuwait government'
+* '9K-GEA' : 'Airbus A319 VIP used by Kuwait government'
+* '9K-GCC' : 'Boeing 737 VIP used by Kuwait government'
+* '9K-GAA' : 'Boeing 747 VIP used by Kuwait government'
+* '9K-AJD' : 'Gulfstream V used by Kuwait government'
+* '9K-AJE' : 'Gulfstream V used by Kuwait government'
+* '9K-AJF' : 'Gulfstream V used by Kuwait government'
+* '9K-GFA' : 'Gulfstream 550 used by Kuwait government'
+
 ### Libya
 
 * '5A-ONE' : 'Airbus A340 used Libyan government'
@@ -110,26 +118,26 @@ http://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2015
 ### Qatar
 
 * 'VQ-BSK' : 'Boeing 747 used by the royal family of Qatar'
-*  'VQ-BSK' : 'Boeing 747 used by the royal family of Qatar',
-*  'A7-AAG' : 'A320 used by the royal family of Qatar',
-*  'A7-AAH' : 'A340 used by the royal family of Qatar',
-*  'A7-AAM' : 'Bombardier BD-700 used by the royal family of Qatar',
-*  'A7-AFE' : 'A310 used by the royal family of Qatar',
-*  'A7-HHE' : 'Boeing 747 used by the royal family of Qatar',
-*  'A7-HHH' : 'A340 used by the royal family of Qatar',
-*  'A7-HHJ' : 'A319 used by the royal family of Qatar',
+*  'VQ-BSK' : 'Boeing 747 used by the royal family of Qatar'
+*  'A7-AAG' : 'A320 used by the royal family of Qatar'
+*  'A7-AAH' : 'A340 used by the royal family of Qatar'
+*  'A7-AAM' : 'Bombardier BD-700 used by the royal family of Qatar'
+*  'A7-AFE' : 'A310 used by the royal family of Qatar'
+*  'A7-HHE' : 'Boeing 747 used by the royal family of Qatar'
+*  'A7-HHH' : 'A340 used by the royal family of Qatar'
+*  'A7-HHJ' : 'A319 used by the royal family of Qatar'
 *  'A7-HHK' : 'A340 used by the royal family of Qatar'
 *  'A7-HHM' : 'A330 used by the royal family of Qatar'
-*  'A7-HJJ' : 'A330 used by the royal family of Qatar',
-*  'A7-HSJ' : 'A320 used by the royal family of Qatar',
-*  'A7-MBK' : 'A320 used by the royal family of Qatar',
-*  'A7-MED' : 'A319 used by the royal family of Qatar',
-*  'A7-MHH' : 'A319 used by the royal family of Qatar',
-*  'VP-BAT' : 'Boeing 747 used by the royal family of Qatar',
+*  'A7-HJJ' : 'A330 used by the royal family of Qatar'
+*  'A7-HSJ' : 'A320 used by the royal family of Qatar'
+*  'A7-MBK' : 'A320 used by the royal family of Qatar'
+*  'A7-MED' : 'A319 used by the royal family of Qatar'
+*  'A7-MHH' : 'A319 used by the royal family of Qatar'
+*  'VP-BAT' : 'Boeing 747 used by the royal family of Qatar'
 
 ### Russia
-* 'RA-96016' : 'Ilyushin Il-96 used Russian president Vladimir Putin',
-* 'RA-96017' : 'Ilyushin Il-96 used Russian president Vladimir Putin',
+* 'RA-96016' : 'Ilyushin Il-96 used Russian president Vladimir Putin'
+* 'RA-96017' : 'Ilyushin Il-96 used Russian president Vladimir Putin'
 
 ### Saudi Arabia
 
@@ -147,7 +155,6 @@ http://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2015
 * 'ST-PRA' : 'Il-62 used by Omar Al-Bashir'
 
 ### Turkmenistan
-* 'EZ-A777' : 'Boeing 777 VIP used by Turkmenistan government',
-* 'EZ-A007' : 'Boeing 737 VIP used by Turkmenistan government',
-* 'EZ-B024' : 'Challenger 870 used by Turkmenistan government',
-
+* 'EZ-A777' : 'Boeing 777 VIP used by Turkmenistan government'
+* 'EZ-A007' : 'Boeing 737 VIP used by Turkmenistan government'
+* 'EZ-B024' : 'Challenger 870 used by Turkmenistan government'
