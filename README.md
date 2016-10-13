@@ -36,28 +36,28 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 ### Bahrain
 * **A9C-HMK**: Boeing 747 used by the king of Bahrain
 
-#### Belarus
+### Belarus
 * **EW-001PA**: Boeing 737 used by Belarus government
 * **EW-001PB**: Boeing 767 used by Belarus government
 
-#### Cameroon
+### Cameroon
 * **TJ-AAC**: Boeing 767 used by Cameroon government
 
-#### Chad
+### Chad
 * **TT-ABC**: MD-87 used by the government of Chad
 
-#### Equatorial Guinea
+### Equatorial Guinea
 * **3C-EGE**: Boeing 737 used by Teodoro Obiang, Equatorial Guinea
 * **3C-ONM**: Dassault 900B used by Teodorin Obiang, Equatorial Guinea
 * **3C-LGE**: Falcon 50 used by Equatorial Guinea government
 * **3C-LLU**: Boeing 767 used by Equatorial Guinea government
 * **CS-TQX**: Boeing 777 used by Equatorial Guinea government
 
-#### Gabon
+### Gabon
 * **TR-KJD**: ATR 42M used by Gabonese government
 * **TR-KPR**: Boeing 777 VIP used by Gabonese government
 
-#### Iran
+### Iran
 * **EP-AJA**: Airbus A340 used by the Iran government
 * **EP-AJC**: Airbus A320 used by the Iran government
 * **EP-AJD**: Boeing 707 used by the Iran government
@@ -65,20 +65,20 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * **EP-AGB**: Airbus A321 used by the Iran government
 * **EP-TFI**: Dassault Falcon 50 used by the Iran government
 
-#### Ivory Coast
+### Ivory Coast
 * **TU-VAD**: Gulfstream IV used by Ivory Coast government
 * **TU-VAS**: A319 VIP used by Ivory Coast government
 
-#### Jordan
+### Jordan
 * **VQ-BDD**: Airbus A318 Elite used by Jordanian government
 
-#### Kazakhstan
+### Kazakhstan
 * **P4-KAZ**: Boeing 737 used by Kazakhstan government
 * **UP-A2001**: Airbus A320 used by Kazakhstan government
 * **UP-A3001**: Airbus A330 used by Kazakhstan government
 * **UP-B5701**: Boeing 757 used by Kazakhstan government
 
-#### Kuwait
+### Kuwait
 * **9K-GBA**: Airbus A340 VIP used by Kuwait government
 * **9K-GBB**: Airbus A340 VIP used by Kuwait government
 * **9K-AKD**: Airbus A320 VIP used by Kuwait government
@@ -90,10 +90,10 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * **9K-AJF**: Gulfstream V used by Kuwait government
 * **9K-GFA**: Gulfstream 550 used by Kuwait government
 
-#### Libya
+### Libya
 * **5A-ONE**: Airbus A340 used by Libyan government
 
-#### Oman
+### Oman
 * **A4O-AJ**: Airbus A319 of the Oman royal family
 * **A4O-AA**: Airbus A320 of the Oman royal family
 * **A4O-OMN**: Boeing 747 of the Oman royal family
@@ -102,7 +102,7 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * **A4O-AD**: Gulfstream G550 of the Oman royal family
 * **A4O-AE**: Gulfstream G550 of the Oman royal family
 
-#### Qatar
+### Qatar
 * **VQ-BSK**: Boeing 747 used by the royal family of Qatar
 * **A7-AAG**: A320 used by the royal family of Qatar
 * **A7-AAH**: A340 used by the royal family of Qatar
@@ -120,11 +120,11 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * **A7-MHH**: Airbus A319 used by the royal family of Qatar
 * **VP-BAT**: Boeing 747 used by the royal family of Qatar
 
-#### Russia
+### Russia
 * **RA-96016**: Ilyushin Il-96 used Russian president Vladimir Putin
 * **RA-96017**: Ilyushin Il-96 used Russian president Vladimir Putin
 
-#### Saudi Arabia
+### Saudi Arabia
 * **HZ-WBT7**: Prince Al Waleed's Boeing 747
 * **HZ-WBT5**: Prince Al Waleed's Hawker
 * **HZ-HMS2**: Airbus A340 for use by the royal family
@@ -133,11 +133,11 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * **HZ-HM1A**: Boeing 747 for the use of the royal family
 * **HZ-HM1C**: Boeing 747 for the use of the royal family
 
-#### Sudan
+### Sudan
 * **ST-PRM**: Antonov An-72 of the Sudanese government
 * **ST-PRA**: Ilyushin Il-62 used by Omar Al-Bashir
 
-#### Turkmenistan
+### Turkmenistan
 * **EZ-A777**: Boeing 777 VIP used by Turkmenistan government
 * **EZ-A007**: Boeing 737 VIP used by Turkmenistan government
 * **EZ-B024**: Challenger 870 used by Turkmenistan government
