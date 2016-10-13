@@ -4,7 +4,7 @@ var request = require('request');
 
 var Twitter = require('twitter');
 var time = require('time')(Date);
- 
+
 var client = new Twitter({
   consumer_key: process.env.TWITTER_CONSUMER_KEY,
   consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
@@ -77,7 +77,7 @@ function query(registration, callback) {
     } else {
       callback(error);
     }
-  }); 
+  });
 }
 
 // The following list contains:
@@ -91,21 +91,21 @@ var planes = {
  '7T-VPC' : 'Gulfstream IV used by Algerian government',
  '7T-VPM' : 'Gulfstream IV used by Algerian government',
  '7T-VPG' : 'Gulfstream V used by Algerian government',
- 
+
  // Angola
  'D2-EYU' : 'De Havilland Dash 8 used by Angola government',
  'D2-EEA' : 'De Havilland Dash 8 used by Angola government',
  'D2-EEB' : 'De Havilland Dash 8 used by Angola government',
 
- 
+
  // Azerbaijan
  '4K-AIO1' : 'Boeing 767 "Baku 1" used by Azerbaijan government',
  '4K-AI06' : 'Gulfstream G550 used by Azerbaijan government',
- 
+
  // Belarus
  'EW-001PA' : 'Boeing 737 used by Belarus government',
  'EW-001PB' : 'Boeing 767 used by Belarus government',
- 
+
  //Cameroon
  'TJ-AAC' : 'Boeing 767 used by Cameroon government',
 
@@ -115,24 +115,24 @@ var planes = {
  '3C-LGE' : 'Falcon 50 used by Equatorial Guinea government',
  '3C-LLU' : 'Boeing 767 used by Equatorial Guinea government',
  'CS-TQX' : 'Boeing 777 used by Equatorial Guinea government',
- 
+
  // Gabon
  'TR-KJD' : 'ATR 42M used by Gabonese government',
  'TR-KPR' : 'Boeing 777 VIP used by Gabonese government',
- 
+
  // Ivory Coast
  'TU-VAD' : 'Gulfstream IV used by Ivory Coast government',
  'TU-VAS' : 'A319 VIP used by Ivory Coast government',
 
  //Jordan
  'VQ-BDD' : 'Airbus A318 Elite used by Jordanian government',
- 
- // Kazakhstan	
- 'P4-KAZ' : 'Boeing 737 used by Kazakhstan government',
+
+ // Kazakhstan
+ 'P4-KAZ'   : 'Boeing 737 used by Kazakhstan government',
  'UP-A2001' : 'Airbus A320 used by Kazakhstan government',
  'UP-A3001' : 'Airbus A330 used by Kazakhstan government',
  'UP-B5701' : 'Boeing 757 used by Kazakhstan government',
- 
+
  // Kuwait
  '9K-GBA' : 'Airbus A340 VIP used by Kuwait government',
  '9K-GBB' : 'Airbus A340 VIP used by Kuwait government',
@@ -144,10 +144,10 @@ var planes = {
  '9K-AJE' : 'Gulfstream V used by Kuwait government',
  '9K-AJF' : 'Gulfstream V used by Kuwait government',
  '9K-GFA' : 'Gulfstream 550 used by Kuwait government',
- 
+
  // Libya
  '5A-ONE' : 'Airbus A340 used by Libyan government',
- 
+
  // Russia
  'RA-96016' : 'Ilyushin Il-96 used Russian president Vladimir Putin',
  'RA-96017' : 'Ilyushin Il-96 used Russian president Vladimir Putin',
@@ -157,12 +157,12 @@ var planes = {
  'HZ-WBT7' : 'Prince Al Waleed\'s Boeing 747',
  'HZ-WBT5' : 'Prince Al Waleed\'s Hawker',
  // "Saudi Arabian Royal Flight" planes operate for the ruling family
- 'HZ-HMS2' : 'A340 for use by the royal family',
- 'HZ-HMS1' : 'B747 registered to Prince Sultan Bin Abdulaziz',
- 'HZ-HM1B' : 'B747 for the use of the royal family',
- 'HZ-HM1A' : 'B747 for the use of the royal family',
- 'HZ-HM1C' : 'B747 for the use of the royal family',
- 
+ 'HZ-HMS2' : 'Airbus A340 for use by the royal family',
+ 'HZ-HMS1' : 'Boeing 747 registered to Prince Sultan Bin Abdulaziz',
+ 'HZ-HM1B' : 'Boeing 747 for the use of the royal family',
+ 'HZ-HM1A' : 'Boeing 747 for the use of the royal family',
+ 'HZ-HM1C' : 'Boeing 747 for the use of the royal family',
+
  // Turkmenistan
  'EZ-A777' : 'Boeing 777 VIP used by Turkmenistan government',
  'EZ-A007' : 'Boeing 737 VIP used by Turkmenistan government',
@@ -182,44 +182,53 @@ var planes = {
  'A7-AAM' : 'Bombardier BD-700 used by the royal family of Qatar',
  'A7-AFE' : 'A310 used by the royal family of Qatar',
  'A7-HHE' : 'Boeing 747 used by the royal family of Qatar',
- 'A7-HHH' : 'A340 used by the royal family of Qatar',
- 'A7-HHJ' : 'A319 used by the royal family of Qatar',
- 'A7-HHK' : 'A340 used by the royal family of Qatar',
- 'A7-HHM' : 'A330 used by the royal family of Qatar',
- 'A7-HJJ' : 'A330 used by the royal family of Qatar',
- 'A7-HSJ' : 'A320 used by the royal family of Qatar',
- 'A7-MBK' : 'A320 used by the royal family of Qatar',
- 'A7-MED' : 'A319 used by the royal family of Qatar',
- 'A7-MHH' : 'A319 used by the royal family of Qatar',
+ 'A7-HHH' : 'Airbus A340 used by the royal family of Qatar',
+ 'A7-HHJ' : 'Airbus A319 used by the royal family of Qatar',
+ 'A7-HHK' : 'Airbus A340 used by the royal family of Qatar',
+ 'A7-HHM' : 'Airbus A330 used by the royal family of Qatar',
+ 'A7-HJJ' : 'Airbus A330 used by the royal family of Qatar',
+ 'A7-HSJ' : 'Airbus A320 used by the royal family of Qatar',
+ 'A7-MBK' : 'Airbus A320 used by the royal family of Qatar',
+ 'A7-MED' : 'Airbus A319 used by the royal family of Qatar',
+ 'A7-MHH' : 'Airbus A319 used by the royal family of Qatar',
  'VP-BAT' : 'Boeing 747 used by the royal family of Qatar',
 
  // Sudan
  // Source: http://www.airplane-pictures.net/photo/465501/st-prm-sudan-government-antonov-an-72/
- 'ST-PRM' : 'An-72 of the Sudanese government',
+ 'ST-PRM' : 'Antonov An-72 of the Sudanese government',
  // Source: http://www.philstar.com/world/2015/09/02/1495088/china-parade-draws-putin-few-other-major-world-leaders
- 'ST-PRA' : 'Il-62 used by Omar Al-Bashir',
+ 'ST-PRA' : 'Ilyushin Il-62 used by Omar Al-Bashir',
 
  // Oman
  // The Royal Flight of Oman caters for the need of the royals
- 'A4O-AJ' : 'A319 of the Oman royal family',
- 'A4O-AA' : 'A320 of the Oman royal family',
- 'A4O-OMN' : 'B747 of the Oman royal family',
- 'A4O-HMS' : 'B747 of the Oman royal family',
- 'A4O-SO' : 'B747 of the Oman royal family',
- 'A4O-AD' : 'Gulfstream of the Oman royal family',
- 'A4O-AE' : 'Gulfstream of the Oman royal family',
+ 'A4O-AJ'  : 'Airbus A319 of the Oman royal family',
+ 'A4O-AA'  : 'Airbus A320 of the Oman royal family',
+ 'A4O-OMN' : 'Boeing 747 of the Oman royal family',
+ 'A4O-HMS' : 'Boeing 747 of the Oman royal family',
+ 'A4O-SO'  : 'Boeing 747 of the Oman royal family',
+ 'A4O-AD'  : 'Gulfstream G550 of the Oman royal family',
+ 'A4O-AE'  : 'Gulfstream G550 of the Oman royal family',
 
  // Algeria
  // Source: http://www.liberation.fr/planete/2014/11/15/le-president-algerien-bouteflika-a-quitte-la-clinique-de-grenoble_1143663
- '7T-VPM' : 'Gulfstream used by the Algerian government',
+ '7T-VPM' : 'Gulfstream IV used by the Algerian government',
 
  // Chad
  // Source: http://www.airteamimages.com/mcdonnell-douglas-md-80_TT-ABC_chad-government_93128.html
- 'TT-ABC' : 'MD-87 used by the government of Chad'
+ 'TT-ABC' : 'MD-87 used by the government of Chad',
+
+ // Iran
+ // Source: http://www.airplane-pictures.net/operator.php?p=3680
+ // http://www.airfleets.net/flottecie/Iranian%20Gvmt.htm
+ 'EP-AJA' : 'Airbus A340 used by the Iran government',
+ 'EP-AJC' : 'Airbus A320 used by the Iran government',
+ 'EP-AJD' : 'Boeing 707 used by the Iran government',
+ 'EP-AGA' : 'Boeing 737 used by the Iran government',
+ 'EP-AGB' : 'Airbus A321 used by the Iran government',
+ 'EP-TFI' : 'Dassault Falcon 50 used by the Iran government'
 };
 
 var testPlanes = { 'HB-JXA' : 1, 'HB-JYN': 1 };
-
 
 function tweet(str) {
   client.post('statuses/update', {status: str}, function(error, tweet, response){
@@ -240,7 +249,7 @@ query(process.argv[2], function(error, flights) {
       var reg = flight['Reg.'];
       if (process.argv[2] || reg in planes) {
         var verb = (flight.M_Type.match(/Landing/) ? 'landed at' : 'left');
-        var str = 
+        var str =
           (reg in testPlanes ? '(test) A plane' : 'A dictator\'s plane')
           + ' ' + verb + ' #gva airport: '
           + (reg in planes && planes[reg] ? planes[reg] + " (" + reg +')' : reg)
@@ -249,8 +258,5 @@ query(process.argv[2], function(error, flights) {
         tweet(str);
       }
     }
-  } 
+  }
 });
-
-
-
