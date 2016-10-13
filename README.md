@@ -144,6 +144,12 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 
 ## Contributors
 * [@pedrofelipee](https://twitter.com/pedrofelipee)
+* [@nicolaskb](https://twitter.com/nicolaskb)
+* [@julienpilet](https://twitter.com/julienpilet)
+* [@francoispilet](https://twitter.com/francoispilet)
 
 ## Media
-* [The Verge](http://www.theverge.com/2016/10/13/13243072/twitter-bot-tracks-dictator-planes-geneva-gva-tracker)
+* [The Verge](http://www.theverge.com/2016/10/13/13243072/twitter-bot-tracks-dictator-planes-geneva-gva-tracker): This Twitter bot is tracking dictators' flights in and out of Geneva
+* [Watson.ch](http://www.watson.ch/Schweiz/Luftfahrt/724746297-Planespotting-f%C3%BCr-Fortgeschrittene--Dieser-Twitter-Bot-meldet-dir--wenn-ein-Diktator-in-Genf-landet): Planespotting für Fortgeschrittene: Dieser Twitter-Bot meldet dir, wenn ein Diktator in Genf landet
+* [The Local](https://www.thelocal.ch/20160421/dictator-tracker-spices-up-geneva-planespotting): Dictator-tracker spices up Geneva planespotting
+* [RTS.ch](http://www.rts.ch/info/sciences-tech/reperages-web/7668969-les-allees-et-venues-a-geneve-de-dictateurs-annoncees-sur-twitter.html): Les allées et venues à Genève de dictateurs annoncées sur Twitter
