@@ -39,6 +39,7 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 ### Belarus
 * **EW-001PA**: Boeing 737 used by Belarus government
 * **EW-001PB**: Boeing 767 used by Belarus government
+* **EW-85815**: Tupolev Tu-154M used by Belarus government
 
 ### Cameroon
 * **TJ-AAC**: Boeing 767 used by Cameroon government
