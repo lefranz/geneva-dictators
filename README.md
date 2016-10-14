@@ -149,6 +149,8 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * [@francoispilet](https://twitter.com/francoispilet)
 
 ## Media
+* [Newsweek](http://europe.newsweek.com/twitter-bot-tracks-flights-switzerland-gva-dictator-alert-509513?rm=eu): Twitter Bot Track Dictators' Flights To Switzerland
+* [Wired.it](http://www.wired.it/internet/social-network/2016/10/14/un-twitterbot-traccia-aerei-dei-dittatori-in-svizzera/): C’è un Twitterbot che traccia gli aerei dei dittatori che transitano in Svizzera
 * [The Verge](http://www.theverge.com/2016/10/13/13243072/twitter-bot-tracks-dictator-planes-geneva-gva-tracker): This Twitter bot is tracking dictators' flights in and out of Geneva
 * [Watson.ch](http://www.watson.ch/Schweiz/Luftfahrt/724746297-Planespotting-f%C3%BCr-Fortgeschrittene--Dieser-Twitter-Bot-meldet-dir--wenn-ein-Diktator-in-Genf-landet): Planespotting für Fortgeschrittene: Dieser Twitter-Bot meldet dir, wenn ein Diktator in Genf landet
 * [The Local](https://www.thelocal.ch/20160421/dictator-tracker-spices-up-geneva-planespotting): Dictator-tracker spices up Geneva planespotting
