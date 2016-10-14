@@ -122,8 +122,22 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * **VP-BAT**: Boeing 747 used by the royal family of Qatar
 
 ### Russia
-* **RA-96016**: Ilyushin Il-96 used Russian president Vladimir Putin
-* **RA-96017**: Ilyushin Il-96 used Russian president Vladimir Putin
+* **RA-87968**: Yakovlev Yak-40 used by Russian government
+* **RA-87972**: Yakovlev Yak-40 used by Russian government
+* **RA-65905**: Tupolev Tu-134 used by Russian government
+* **RA-65911**: Tupolev Tu-134 used by Russian government
+* **RA-64517**: Tupolev Tu-214 used by Russian government
+* **RA-64520**: Tupolev Tu-214 used by Russian government
+* **RA-64522**: Tupolev Tu-214 used by Russian government
+* **RA-64524**: Tupolev Tu-214 used by Russian government
+* **RA-96012**: Ilyushin Il-96 used by Russian government
+* **RA-96016**: Ilyushin Il-96 used by Russian government
+* **RA-96017**: Ilyushin Il-96 used by Russian government
+* **RA-96018**: Ilyushin Il-96 used by Russian government
+* **RA-96019**: Ilyushin Il-96 used by Russian government
+* **RA-96020**: Ilyushin Il-96 used by Russian president Vladimir Putin
+* **RA-96021**: Ilyushin Il-96 used by Russian president Vladimir Putin
+* **M-VQBI**: Bombardier Global 6000 used by Russian Vice Prime Minister Igor Shuvalov and his family
 
 ### Saudi Arabia
 * **HZ-WBT7**: Prince Al Waleed's Boeing 747

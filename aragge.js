@@ -199,8 +199,25 @@ var planes = {
   'VP-BAT' : 'Boeing 747 used by the royal family of Qatar',
 
   // Russia
-  'RA-96016' : 'Ilyushin Il-96 used Russian president Vladimir Putin',
-  'RA-96017' : 'Ilyushin Il-96 used Russian president Vladimir Putin',
+  // Source for most of them (in Russian and I'm too lazy to translate, but you can use Google Translate): https://goo.gl/Z7Yjyi
+  'RA-87968' : 'Yakovlev Yak-40 used by Russian government',
+  'RA-87972' : 'Yakovlev Yak-40 used by Russian government',
+  'RA-65905' : 'Tupolev Tu-134 used by Russian government',
+  'RA-65911' : 'Tupolev Tu-134 used by Russian government',
+  'RA-64517' : 'Tupolev Tu-214 used by Russian government',
+  'RA-64520' : 'Tupolev Tu-214 used by Russian government',
+  'RA-64522' : 'Tupolev Tu-214 used by Russian government',
+  'RA-64524' : 'Tupolev Tu-214 used by Russian government',
+  // All of them including RA-96012, RA-96016..19 could be checked at https://www.flightradar24.com/data/aircraft/RA-96012
+  'RA-96012' : 'Ilyushin Il-96 used by Russian government',
+  'RA-96016' : 'Ilyushin Il-96 used by Russian government',
+  'RA-96017' : 'Ilyushin Il-96 used by Russian government',
+  'RA-96018' : 'Ilyushin Il-96 used by Russian government',
+  'RA-96019' : 'Ilyushin Il-96 used by Russian government',
+  'RA-96020' : 'Ilyushin Il-96 used by Russian president Vladimir Putin',
+  'RA-96021' : 'Ilyushin Il-96 used by Russian president Vladimir Putin',
+  // Source (Google Translate is better than nothing): https://navalny.com/p/4952/
+  'M-VQBI' : 'Bombardier Global 6000 used by Russian Vice Prime Minister Igor Shuvalov and his family'
 
   // Saudi Arabia
   // Source: http://i.dailymail.co.uk/i/pix/2015/07/01/16/2A25797C00000578-3145792-The_prince_has_several_planes_including_the_smaller_A_Hawker_jet-a-12_1435765095892.jpg
