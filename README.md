@@ -162,6 +162,7 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * [@nicolaskb](https://twitter.com/nicolaskb)
 * [@julienpilet](https://twitter.com/julienpilet)
 * [@francoispilet](https://twitter.com/francoispilet)
+* [@jcdenton__](https://twitter.com/jcdenton__)
 
 ## Media
 * [Newsweek](http://europe.newsweek.com/twitter-bot-tracks-flights-switzerland-gva-dictator-alert-509513?rm=eu): Twitter Bot Track Dictators' Flights To Switzerland
