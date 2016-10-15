@@ -137,7 +137,7 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * **RA-96019**: Ilyushin Il-96 used by Russian government
 * **RA-96020**: Ilyushin Il-96 used by Russian president Vladimir Putin
 * **RA-96021**: Ilyushin Il-96 used by Russian president Vladimir Putin
-* **M-VQBI**: Bombardier Global 6000 used by Russian Vice Prime Minister Igor Shuvalov and his family
+* **M-VQBI**: Bombardier 6000 used by Russian Vice Prime Igor Shuvalov and family
 
 ### Saudi Arabia
 * **HZ-WBT7**: Prince Al Waleed's Boeing 747
