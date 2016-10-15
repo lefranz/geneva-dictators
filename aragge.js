@@ -217,7 +217,7 @@ var planes = {
   'RA-96020' : 'Ilyushin Il-96 used by Russian president Vladimir Putin',
   'RA-96021' : 'Ilyushin Il-96 used by Russian president Vladimir Putin',
   // Source (Google Translate is better than nothing): https://navalny.com/p/4952/
-  'M-VQBI' : 'Bombardier Global 6000 used by Russian Vice Prime Minister Igor Shuvalov and his family'
+  'M-VQBI' : 'Bombardier 6000 used by Russian Vice Prime Igor Shuvalov and family'
 
   // Saudi Arabia
   // Source: http://i.dailymail.co.uk/i/pix/2015/07/01/16/2A25797C00000578-3145792-The_prince_has_several_planes_including_the_smaller_A_Hawker_jet-a-12_1435765095892.jpg
