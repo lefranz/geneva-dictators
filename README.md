@@ -39,6 +39,7 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 ### Belarus
 * **EW-001PA**: Boeing 737 used by Belarus government
 * **EW-001PB**: Boeing 767 used by Belarus government
+* **EW-85815**: Tupolev Tu-154M used by Belarus government
 
 ### Cameroon
 * **TJ-AAC**: Boeing 767 used by Cameroon government
@@ -121,8 +122,22 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * **VP-BAT**: Boeing 747 used by the royal family of Qatar
 
 ### Russia
-* **RA-96016**: Ilyushin Il-96 used Russian president Vladimir Putin
-* **RA-96017**: Ilyushin Il-96 used Russian president Vladimir Putin
+* **RA-87968**: Yakovlev Yak-40 used by Russian government
+* **RA-87972**: Yakovlev Yak-40 used by Russian government
+* **RA-65905**: Tupolev Tu-134 used by Russian government
+* **RA-65911**: Tupolev Tu-134 used by Russian government
+* **RA-64517**: Tupolev Tu-214 used by Russian government
+* **RA-64520**: Tupolev Tu-214 used by Russian government
+* **RA-64522**: Tupolev Tu-214 used by Russian government
+* **RA-64524**: Tupolev Tu-214 used by Russian government
+* **RA-96012**: Ilyushin Il-96 used by Russian government
+* **RA-96016**: Ilyushin Il-96 used by Russian government
+* **RA-96017**: Ilyushin Il-96 used by Russian government
+* **RA-96018**: Ilyushin Il-96 used by Russian government
+* **RA-96019**: Ilyushin Il-96 used by Russian government
+* **RA-96020**: Ilyushin Il-96 used by Russian president Vladimir Putin
+* **RA-96021**: Ilyushin Il-96 used by Russian president Vladimir Putin
+* **M-VQBI**: Bombardier Global 6000 used by Russian Vice Prime Minister Igor Shuvalov and his family
 
 ### Saudi Arabia
 * **HZ-WBT7**: Prince Al Waleed's Boeing 747
@@ -147,6 +162,7 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * [@nicolaskb](https://twitter.com/nicolaskb)
 * [@julienpilet](https://twitter.com/julienpilet)
 * [@francoispilet](https://twitter.com/francoispilet)
+* [@jcdenton__](https://twitter.com/jcdenton__)
 
 ## Media
 * [Newsweek](http://europe.newsweek.com/twitter-bot-tracks-flights-switzerland-gva-dictator-alert-509513?rm=eu): Twitter Bot Track Dictators' Flights To Switzerland
