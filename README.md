@@ -158,13 +158,15 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * **EZ-B024**: Challenger 870 used by Turkmenistan government
 
 ## Contributors
-* [@pedrofelipee](https://twitter.com/pedrofelipee)
-* [@nicolaskb](https://twitter.com/nicolaskb)
 * [@julienpilet](https://twitter.com/julienpilet)
 * [@francoispilet](https://twitter.com/francoispilet)
+* [@nicolaskb](https://twitter.com/nicolaskb)
+* [@pedrofelipee](https://twitter.com/pedrofelipee)
 * [@jcdenton__](https://twitter.com/jcdenton__)
 
 ## Media
+* [El Espagnol](http://www.elespanol.com/ciencia/tecnologia/20161013/162734576_0.html): Así caza Twitter a los dictadores que viajan a Suiza a lavar dinero
+* [Tages Anzeiger](http://www.tagesanzeiger.ch/schweiz/standard/genf-das-mekka-der-autokraten/story/18282868): Genf, das Mekka der Autokraten
 * [Newsweek](http://europe.newsweek.com/twitter-bot-tracks-flights-switzerland-gva-dictator-alert-509513?rm=eu): Twitter Bot Track Dictators' Flights To Switzerland
 * [Wired.it](http://www.wired.it/internet/social-network/2016/10/14/un-twitterbot-traccia-aerei-dei-dittatori-in-svizzera/): C’è un Twitterbot che traccia gli aerei dei dittatori che transitano in Svizzera
 * [The Verge](http://www.theverge.com/2016/10/13/13243072/twitter-bot-tracks-dictator-planes-geneva-gva-tracker): This Twitter bot is tracking dictators' flights in and out of Geneva
