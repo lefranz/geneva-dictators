@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jpilet/geneva-dictators.svg?branch=master)](https://travis-ci.org/jpilet/geneva-dictators)
+
 # GVA Dictator Alert
 
 This Twitter bot is tracking planes registered to authoritarian regimes landing and leaving Geneva Airport. The results are posted on:
