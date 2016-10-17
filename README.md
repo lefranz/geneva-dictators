@@ -96,6 +96,10 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 ### Libya
 * **5A-ONE**: Airbus A340 used by Libyan government
 
+### North Korea
+* **P-618**: Ilyushin Il-62M used by North Korean government
+* **P-885**: Ilyushin Il-62M used by North Korean government
+
 ### Oman
 * **A4O-AJ**: Airbus A319 of the Oman royal family
 * **A4O-AA**: Airbus A320 of the Oman royal family
