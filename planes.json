@@ -134,6 +134,18 @@
   }
 },
 {
+  "country": "North Korea",
+  "source": [
+    "https://www.flightradar24.com/data/aircraft/air-koryo-js-kor",
+    "https://en.wikipedia.org/wiki/Air_transports_of_heads_of_state_and_government#North_Korea_2"
+  ],
+  "comment": "Air Koryo planes operate for the North Korean government",
+  "planes": {
+    "P-618" : "Ilyushin Il-62M used by North Korean government",
+    "P-885" : "Ilyushin Il-62M used by North Korean government"
+  }
+},
+{
   "country": "Oman",
   "comment": "The Royal Flight of Oman caters for the need of the royals",
   "planes": {
