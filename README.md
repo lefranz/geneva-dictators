@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jpilet/geneva-dictators.svg?branch=master)](https://travis-ci.org/jpilet/geneva-dictators)
+[[Build Status](https://travis-ci.org/lefranz/geneva-dictators.svg?branch=master)](https://travis-ci.org/lefranz/geneva-dictators)
 
 # GVA Dictator Alert
 
