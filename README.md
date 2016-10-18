@@ -171,6 +171,11 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * [@jcdenton__](https://twitter.com/jcdenton__)
 
 ## Media
+* [Mediapart.fr](https://www.mediapart.fr/journal/international/161016/un-compte-twitter-automatise-pour-traquer-les-avions-des-dictateurs-en-suisse?onglet=full): Un compte Twitter automatisé pour traquer les avions des dictateurs en Suisse
+* [Le Monde](http://www.lemonde.fr/big-browser/article/2016/10/17/a-geneve-un-robot-poste-sur-twitter-les-allees-et-venues-des-dictateurs_5015328_4832693.html): A Genève, un robot poste sur Twitter les allées et venues des dictateurs
+* [RT](https://francais.rt.com/international/19467-journaliste-suisse-cree-compte-twitter-traque-dictateurs): Un journaliste suisse crée un compte Twitter qui traque les dictateurs passant par Genève
+* [Sputnik Radio](https://soundcloud.com/sputnik_fr/francois-pilet-le-gva-dictator-alert): Interview de François Pilet: Le GVA Dictator Alert
+* [Sputnik News](https://fr.sputniknews.com/international/201610141028189225-suisse-vols-dictateurs-twitter/): Un bot suisse traquera les vols des «dictateurs»… Et les autres?
 * [El Espagnol](http://www.elespanol.com/ciencia/tecnologia/20161013/162734576_0.html): Así caza Twitter a los dictadores que viajan a Suiza a lavar dinero
 * [Tages Anzeiger](http://www.tagesanzeiger.ch/schweiz/standard/genf-das-mekka-der-autokraten/story/18282868): Genf, das Mekka der Autokraten
 * [Newsweek](http://europe.newsweek.com/twitter-bot-tracks-flights-switzerland-gva-dictator-alert-509513?rm=eu): Twitter Bot Track Dictators' Flights To Switzerland
