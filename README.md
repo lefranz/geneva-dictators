@@ -1,4 +1,4 @@
-[[Build Status](https://travis-ci.org/lefranz/geneva-dictators.svg?branch=master)](https://travis-ci.org/lefranz/geneva-dictators)
+[![Build Status](https://travis-ci.org/lefranz/geneva-dictators.svg?branch=master)](https://travis-ci.org/lefranz/geneva-dictators)
 
 # GVA Dictator Alert
 
@@ -184,3 +184,4 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * [Watson.ch](http://www.watson.ch/Schweiz/Luftfahrt/724746297-Planespotting-f%C3%BCr-Fortgeschrittene--Dieser-Twitter-Bot-meldet-dir--wenn-ein-Diktator-in-Genf-landet): Planespotting für Fortgeschrittene: Dieser Twitter-Bot meldet dir, wenn ein Diktator in Genf landet
 * [The Local](https://www.thelocal.ch/20160421/dictator-tracker-spices-up-geneva-planespotting): Dictator-tracker spices up Geneva planespotting
 * [RTS.ch](http://www.rts.ch/info/sciences-tech/reperages-web/7668969-les-allees-et-venues-a-geneve-de-dictateurs-annoncees-sur-twitter.html): Les allées et venues à Genève de dictateurs annoncées sur Twitter
+* [RTS.ch](http://www.rts.ch/play/tv/toutes-taxes-comprises/video/dictateurs?id=8114590): Dictateurs, émission Toutes Taxes Comprises (TTC)
