@@ -163,6 +163,32 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * **EZ-A007**: Boeing 737 VIP used by Turkmenistan government
 * **EZ-B024**: Challenger 870 used by Turkmenistan government
 
+### United Arab Emirates
+ * **A6-PFC**: Boeing 787 used by the UAE government
+ * **A6-ALN**: Boeing 777 used by the UAE government
+ * **A6-MMM**: Boeing 747 used by the UAE government
+ * **A6-COM**: Boeing 747 used by the UAE government
+ * **A6-DLM**: Airbus A320 used by the UAE government
+ * **A6-PFA**: Boeing 747 used by the UAE government
+ * **A6-HMS**: Airbus A320 used by the UAE government
+ * **A6-SIL**: Boeing 777 used by the UAE government
+ * **A6-HRM**: Boeing 747 used by the UAE government
+ * **A6-HHH**: Gulfstream IV used by the UAE government
+ * **A6-HRS**: Boeing 737 used by the UAE government
+ * **A6-ESH**: Airbus A319 used by the UAE government
+ * **A6-MRS**: Boeing 737 used by the UAE government
+ * **A6-MRM**: Boeing 737 used by the UAE government
+ * **A6-UAE**: Boeing 747 used by the UAE government
+ * **A6-YAS**: Boeing 747 used by the UAE government
+ * **A6-GGP**: Boeing 747 used by the UAE government
+ * **A6-AUH**: Boeing 737 used by the UAE government
+ * **A6-CJE**: Airbus A319 used by the UAE government
+ * **A6-HEH**: Boeing 737 used by the UAE government
+
+### Zimbabwe
+* **Z-WPF**: Boeing 767 used by Zimbabwe president Robert Mugabe
+* **Z-WPF**: Boeing 767 used by Zimbabwe president Robert Mugabe
+
 ## Contributors
 * [@julienpilet](https://twitter.com/julienpilet)
 * [@francoispilet](https://twitter.com/francoispilet)
@@ -171,6 +197,10 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * [@jcdenton__](https://twitter.com/jcdenton__)
 
 ## Media
+* [Swissinfo.ch](http://www.swissinfo.ch/fre/cou-cou-_a-gen%C3%A8ve--un-robot-signale-les-avions-des-dictateurs-/42544160): A Genève, un robot signale les avions des dictateurs
+* [SRF](http://www.srf.ch/news/schweiz/achtung-diktator-im-anflug): Achtung: Diktator im Anflug!
+* [Blick.ch](http://www.blick.ch/news/schweiz/ermittlungen-zu-fluegen-aus-aequatorialguinea-diktatoren-alarm-ruft-genfer-staatsanwaltschaft-auf-den-plan-id5624682.html): Diktatoren-Alarm ruft Genfer Staatsanwaltschaft auf den Plan
+* [RTS.ch](http://www.rts.ch/play/tv/toutes-taxes-comprises/video/dictateurs?id=8114590): Dictateurs, émission Toutes Taxes Comprises (TTC)
 * [Mediapart.fr](https://www.mediapart.fr/journal/international/161016/un-compte-twitter-automatise-pour-traquer-les-avions-des-dictateurs-en-suisse?onglet=full): Un compte Twitter automatisé pour traquer les avions des dictateurs en Suisse
 * [Le Monde](http://www.lemonde.fr/big-browser/article/2016/10/17/a-geneve-un-robot-poste-sur-twitter-les-allees-et-venues-des-dictateurs_5015328_4832693.html): A Genève, un robot poste sur Twitter les allées et venues des dictateurs
 * [RT](https://francais.rt.com/international/19467-journaliste-suisse-cree-compte-twitter-traque-dictateurs): Un journaliste suisse crée un compte Twitter qui traque les dictateurs passant par Genève
@@ -184,4 +214,3 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * [Watson.ch](http://www.watson.ch/Schweiz/Luftfahrt/724746297-Planespotting-f%C3%BCr-Fortgeschrittene--Dieser-Twitter-Bot-meldet-dir--wenn-ein-Diktator-in-Genf-landet): Planespotting für Fortgeschrittene: Dieser Twitter-Bot meldet dir, wenn ein Diktator in Genf landet
 * [The Local](https://www.thelocal.ch/20160421/dictator-tracker-spices-up-geneva-planespotting): Dictator-tracker spices up Geneva planespotting
 * [RTS.ch](http://www.rts.ch/info/sciences-tech/reperages-web/7668969-les-allees-et-venues-a-geneve-de-dictateurs-annoncees-sur-twitter.html): Les allées et venues à Genève de dictateurs annoncées sur Twitter
-* [RTS.ch](http://www.rts.ch/play/tv/toutes-taxes-comprises/video/dictateurs?id=8114590): Dictateurs, émission Toutes Taxes Comprises (TTC)
