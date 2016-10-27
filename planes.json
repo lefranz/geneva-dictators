@@ -83,7 +83,7 @@
 			"EP-AJA": "Airbus A340 used by the Iran government"
 		},
 		"source": {
-		"http://www.airplane-pictures.net/operator.php?p=3680",
+		"http://www.airplane-pictures.net/operator.php?p=3680"
 		"http://www.airfleets.net/flottecie/Iranian%20Gvmt.htm"
 	}
 	},
@@ -136,7 +136,7 @@
 			"P-618": "Ilyushin Il-62M used by North Korean government"
 		},
 		"source": {
-			"https://www.flightradar24.com/data/aircraft/air-koryo-js-kor",
+			"https://www.flightradar24.com/data/aircraft/air-koryo-js-kor"
 			"https://en.wikipedia.org/wiki/Air_transports_of_heads_of_state_and_government#North_Korea_2"
 		},
 		"comment": "Air Koryo planes operate for the North Korean government",
@@ -176,8 +176,8 @@
 			"VQ-BSK": "Boeing 747 used by the royal family of Qatar"
 		},
 		"source": {
-		"https://www.youtube.com/watch?v=-BCVLX7Pdfc",
-		"https://en.wikipedia.org/wiki/Qatar_Amiri_Flight",
+		"https://www.youtube.com/watch?v=-BCVLX7Pdfc"
+		"https://en.wikipedia.org/wiki/Qatar_Amiri_Flight"
 		"http://www.airframes.org/fleet/qaf"
 	}
 	},
@@ -202,8 +202,8 @@
 		},
 		"comment": "All of them including RA-96012, RA-96016..19 could be checked at https://www.flightradar24.com/data/aircraft/RA-96012",
 		"source": {
-			"https://goo.gl/Z7Yjyi",
-			"https://www.flightradar24.com/data/aircraft/RA-96012",
+			"https://goo.gl/Z7Yjyi"
+			"https://www.flightradar24.com/data/aircraft/RA-96012"
 			"https://navalny.com/p/4952/"
 		},
 		"country": "Russia"
@@ -229,7 +229,7 @@
 			"ST-PRM": "Antonov An-72 of the Sudanese government"
 		},
 		"source": {
-		"http://www.airplane-pictures.net/photo/465501/st-prm-sudan-government-antonov-an-72",
+		"http://www.airplane-pictures.net/photo/465501/st-prm-sudan-government-antonov-an-72"
 		"http://www.philstar.com/world/2015/09/02/1495088/china-parade-draws-putin-few-other-major-world-leaders"
 	}
 	},
@@ -266,7 +266,7 @@
 			"A6-HEH": "Boeing 737 used by the UAE government"
 		},
 		"source": {
-		"http://www.airplane-pictures.net/operator.php?p=3238",
+		"http://www.airplane-pictures.net/operator.php?p=3238"
 		"http://www.airfleets.net/flottecie/United%20Arab%20Emirates%20Gvmt.htm"
 	}
 	},
