@@ -247,6 +247,10 @@
 },
 {
 		"country": "United Arab Emirates",
+		"source": [
+		"http://www.airplane-pictures.net/operator.php?p=3238",
+		"http://www.airfleets.net/flottecie/United%20Arab%20Emirates%20Gvmt.htm"
+		],
 		"planes": {
 			"A6-PFC": "Boeing 787 used by the UAE government",
 			"A6-ALN": "Boeing 777 used by the UAE government",
@@ -268,10 +272,6 @@
 			"A6-AUH": "Boeing 737 used by the UAE government",
 			"A6-CJE": "Airbus A319 used by the UAE government",
 			"A6-HEH": "Boeing 737 used by the UAE government"
-		},
-		"source": {
-		"http://www.airplane-pictures.net/operator.php?p=3238",
-		"http://www.airfleets.net/flottecie/United%20Arab%20Emirates%20Gvmt.htm"
 	}
 },
 {
@@ -279,7 +279,6 @@
 		"planes": {
 		"Z-WPF": "Boeing 767 used by Zimbabwe president Robert Mugabe",
 		"Z-WPE": "Boeing 767 used by Zimbabwe president Robert Mugabe"
-	}
 	}
 }
 
