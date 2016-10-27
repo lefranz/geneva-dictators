@@ -130,6 +130,8 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 ### Russia
 * **RA-87968**: Yakovlev Yak-40 used by Russian government
 * **RA-87972**: Yakovlev Yak-40 used by Russian government
+* **RA-89066**: Sukhoi SuperJet 100 used by Russian Emergency Ministry
+* **RA-89067**: Sukhoi SuperJet 100 used by Russian Emergency Ministry
 * **RA-65905**: Tupolev Tu-134 used by Russian government
 * **RA-65911**: Tupolev Tu-134 used by Russian government
 * **RA-64517**: Tupolev Tu-214 used by Russian government
