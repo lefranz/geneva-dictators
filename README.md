@@ -130,6 +130,8 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 ### Russia
 * **RA-87968**: Yakovlev Yak-40 used by Russian government
 * **RA-87972**: Yakovlev Yak-40 used by Russian government
+* **RA-89039**: Sukhoi SuperJet 100 VIP used by Russia Special Detachment
+* **RA-89040**: Sukhoi SuperJet 100 VIP used by Russia Special Detachment
 * **RA-89066**: Sukhoi SuperJet 100 used by Russian Emergency Ministry
 * **RA-89067**: Sukhoi SuperJet 100 used by Russian Emergency Ministry
 * **RA-65905**: Tupolev Tu-134 used by Russian government
@@ -138,6 +140,7 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * **RA-64520**: Tupolev Tu-214 used by Russian government
 * **RA-64522**: Tupolev Tu-214 used by Russian government
 * **RA-64524**: Tupolev Tu-214 used by Russian government
+* **RA-96102**: Ilyushin Il-96 used by Russian government
 * **RA-96012**: Ilyushin Il-96 used by Russian government
 * **RA-96016**: Ilyushin Il-96 used by Russian government
 * **RA-96017**: Ilyushin Il-96 used by Russian government
