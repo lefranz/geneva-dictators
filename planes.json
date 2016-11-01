@@ -159,6 +159,15 @@
   }
 },
 {
+  "country": "Pakistan",
+  "source": [
+    "https://www.youtube.com/watch?v=QAfeWFSmlsM"
+  ],
+  "planes": {
+    "J-756" : "Pakistan Air Force Gulfstream GLF4 used by Pakistan Government",
+  }
+}
+{
   "country": "Qatar",
   "source": [
     "https://www.youtube.com/watch?v=-BCVLX7Pdfc",
