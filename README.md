@@ -1,19 +1,37 @@
 [![Build Status](https://travis-ci.org/lefranz/geneva-dictators.svg?branch=master)](https://travis-ci.org/lefranz/geneva-dictators)
 
-# GVA Dictator Alert
+#  GVA Dictator Alert
 
-This Twitter bot is tracking planes registered to authoritarian regimes landing and leaving Geneva Airport. The results are posted on:
-[@GVA_Watcher](https://twitter.com/GVA_Watcher)
+GVA Dictator Alert is a Twitter bot that tracks planes registered to authoritarian regimes landing and leaving Geneva Airport. The results are posted on: [@GVA_Watcher][2]
 
-Help us grow this list by sending new planes registrations to francois@vesper.media
+The project is run by Julien Pilet ([@JulienPilet][4]) and François Pilet ([@FrancoisPilet][5]).
 
-Project by [@julienpilet](https://twitter.com/julienpilet) and [@FrancoisPilet](https://twitter.com/FrancoisPilet)
+François is a freelance investigative journalist based in Switzerland and co-founder of the news agency [vesper.media][6]. Julien is a computer engineer and co-founder of [anemomind.com][7] and [opticode.ch][8]. 
 
-## Who's a dictator?
+The two are cousins, since you asked.
+
+##  How it works
+
+The bot relies on a private [ADS-B antenna][9] located near the Geneva airport. The antenna is recording every landings and takeoffs along with the aircrafts registrations. A script is run once per hour to compare the logs from the antenna with a [list of aircrafts][1] registered to or regularly used by authoritarian regimes. When a match is found, a message is published on Twitter.
+
+##  The list
+
+The list of tracked planes is based on public sources and official registers. See below for the current list of tracked planes.
+
+If want to add new registrations or if you think that there is an error in the list, please contact [francois@vesper.media][3]. 
+
+##  Who's a dictator?
 
 GVA Dictator Alert is tracking planes registered to or used by governments described as "authoritarian regimes" according to the Democracy Index (2015) compiled by the Economist Intelligence Unit.
 
-To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](https://en.wikipedia.org/wiki/Democracy_Index) and [Democracy Index 2015: Democracy in an age of anxiety](http://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2015)
+To read more about the Democracy Index, consult: [Democracy Index - Wikipedia][10] and [Democracy Index 2015: Democracy in an age of anxiety][11]
+
+##  Citations & reactions
+
+On November 3, 2016, Assistant Attorney General Leslie Caldwell, chief of the United States Department of Justice (DoJ) Criminal Division, mentioned GVA Dictator Alert during a [conference][12] about international corruption at The George Washington University ([YouTube][13]). Leslie Caldwell indicated that the tool was monitored by the Justice Department's [Kleptocracy Asset Recovery Initiative][14].
+
+During the summer 2016, relying in part on information provided by GVA Dictator Alert, Geneva public prosecutors opened a formal investigation on Equatorial Guinea Vice President [Teodoro Nguema Obiang Mangue][15], aka Teodorin Obiang, for suspected money laundering of corruption proceeds. On November 31, 2016, the Geneva prosecutors seized [11 luxury cars][16] owned by Teodorin Obiang at Geneva airport. 
+
 
 ## Current list of tracked planes:
 
@@ -219,3 +237,21 @@ To read more about the Democracy Index, consult: [Democracy Index - Wikipedia](h
 * [Watson.ch](http://www.watson.ch/Schweiz/Luftfahrt/724746297-Planespotting-f%C3%BCr-Fortgeschrittene--Dieser-Twitter-Bot-meldet-dir--wenn-ein-Diktator-in-Genf-landet): Planespotting für Fortgeschrittene: Dieser Twitter-Bot meldet dir, wenn ein Diktator in Genf landet
 * [The Local](https://www.thelocal.ch/20160421/dictator-tracker-spices-up-geneva-planespotting): Dictator-tracker spices up Geneva planespotting
 * [RTS.ch](http://www.rts.ch/info/sciences-tech/reperages-web/7668969-les-allees-et-venues-a-geneve-de-dictateurs-annoncees-sur-twitter.html): Les allées et venues à Genève de dictateurs annoncées sur Twitter
+
+
+[1]: https://github.com/lefranz/geneva-dictators
+[2]: https://twitter.com/GVA_Watcher
+[3]: mailto:francois%40vesper.media
+[4]: https://twitter.com/julienpilet
+[5]: https://twitter.com/FrancoisPilet
+[6]: https://vesper.media/
+[7]: http://www.anemomind.com
+[8]: http://opticode.ch/
+[9]: https://en.wikipedia.org/wiki/Automatic_dependent_surveillance_%E2%80%93_broadcast
+[10]: https://en.wikipedia.org/wiki/Democracy_Index
+[11]: http://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2015
+[12]: https://video.law.gwu.edu/ess/echo/presentation/a97d02eb-d412-4aea-a2e4-9cbc3cecb478
+[13]: https://www.youtube.com/watch?v=MAqWkm1pJy8&feature=youtu.be
+[14]: https://www.justice.gov/criminal-afmls
+[15]: https://en.wikipedia.org/wiki/Teodoro_Nguema_Obiang_Mangue
+[16]: http://qz.com/827859/bugatti-ferrari-and-koenigegg-one-were-among-seized-cars-of-equatorial-guineas-vp-obiang/
