@@ -71,6 +71,11 @@ During the summer 2016, relying in part on information provided by GVA Dictator 
 ### Chad
 * **TT-ABC**: MD-87 used by the government of Chad
 
+### Democratic Republic of Congo
+* **9Q-CLK**: Boeing 707-138B used by Democratic Republic of Congo government
+* **9Q-CDC**: Boeing 727 used by Democratic Republic of Congo government
+* **9Q-CGC**: Gulfstream IV used by Democratic Republic of Congo government
+
 ### Equatorial Guinea
 * **3C-EGE**: Boeing 737 used by Teodoro Obiang, Equatorial Guinea
 * **3C-ONM**: Dassault 900B used by Teodorin Obiang, Equatorial Guinea
