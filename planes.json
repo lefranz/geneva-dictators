@@ -63,6 +63,15 @@
   }
 },
 {
+  "country": "Democratic Republic of Congo",
+  "source": "http://www.jetphotos.net/showphotos.php?airline=Democratic%20Republic%20of%20Congo%20-%20Government",
+  "planes": {
+    "9Q-CLK" : "Boeing 707-138B used by Democratic Republic of Congo government",
+    "9Q-CDC" : "Boeing 727 used by Democratic Republic of Congo government",
+    "9Q-CGC" : "Gulfstream IV used by Democratic Republic of Congo government"
+  }
+},
+{
   "country": "Equatorial Guinea",
   "planes": {
     "3C-EGE" : "Boeing 737 used by Teodoro Obiang, Equatorial Guinea",
