@@ -50,6 +50,10 @@ During the summer 2016, relying in part on information provided by GVA Dictator 
 * **D2-EEB**: De Havilland Dash 8 used by Angola government
 
 ### Azerbaijan
+* **4K-AZ888**: Gulfstream G450 used by Azerbaijan government
+* **4K-88888**: Airbus A319 used by Azerbaijan government
+* **4K-AI88**: Gulfstream G650 used by Azerbaijan government
+* **VP-BBF**: Gulfstream G650 used by Azerbaijan government
 * **4K-AIO1**: Boeing 767 "Baku 1" used by Azerbaijan government
 * **4K-AI06**: Gulfstream G550 used by Azerbaijan government
 
