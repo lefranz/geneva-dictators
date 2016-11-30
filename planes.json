@@ -52,6 +52,7 @@
 {
   "country": "Cameroon",
   "planes": {
+    "TJ-AAW" : "Gulfstream IV used by Cameroon government",
     "TJ-AAC" : "Boeing 767 used by Cameroon government"
   }
 },
