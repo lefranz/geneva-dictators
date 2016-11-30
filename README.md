@@ -67,6 +67,8 @@ During the summer 2016, relying in part on information provided by GVA Dictator 
 
 ### Cameroon
 * **TJ-AAC**: Boeing 767 used by Cameroon government
+* **TJ-AAW**: Gulfstream IV used by Cameroon government
+
 
 ### Chad
 * **TT-ABC**: MD-87 used by the government of Chad
