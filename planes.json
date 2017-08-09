@@ -30,7 +30,8 @@
     "4K-AI88" : "Gulfstream G650 used by Azerbaijan government",
     "VP-BBF" : "Gulfstream G650 used by Azerbaijan government",
     "4K-AI01" : "Boeing 767 'Baku 1' used by Azerbaijan government",
-    "4K-AI06" : "Gulfstream G550 used by Azerbaijan government"
+    "4K-AI06" : "Gulfstream G550 used by Azerbaijan government",
+    "4K-AI08" : "Airbus A345 'Baku 8' used by Azerbaijan government"
   }
 },
 
@@ -38,7 +39,10 @@
   "country": "Bahrain",
   "source": "https://www.youtube.com/watch?v=XlRT3ruTnkU",
   "planes": {
-    "A9C-HMK" : "Boeing 747 used by the king of Bahrain"
+    "A9C-HMK" : "Boeing 747 used by the king of Bahrain",
+    "A9C-HAK" : "Boeing 747 used by the king of Bahrain",
+    "A9C-BAH" : "Gulfstream G650 used by the Bahrain Royal family",
+    "A9C-HMH" : "Boeing 764 used by the Bahrain Royal family"
   }
 },
 {
@@ -60,7 +64,8 @@
   "country": "Chad",
   "source": "http://www.airteamimages.com/mcdonnell-douglas-md-80_TT-ABC_chad-government_93128.html",
   "planes": {
-    "TT-ABC" : "MD-87 used by the government of Chad"
+    "TT-ABC" : "MD-87 used by the government of Chad",
+    "TT-ABD" : "Boeing 737 used by the government of Chad"
   }
 },
 {
@@ -79,7 +84,9 @@
     "3C-ONM" : "Dassault 900B used by Teodorin Obiang, Equatorial Guinea",
     "3C-LGE" : "Falcon 50 used by Equatorial Guinea government",
     "3C-LLU" : "Boeing 767 used by Equatorial Guinea government",
-    "CS-TQX" : "Boeing 777 used by Equatorial Guinea government"
+    "3C-MAB" : "Boeing 777 used by Equatorial Guinea government",
+    "CS-TQX" : "Boeing 777 used by Equatorial Guinea government",
+    "RA-76384" : "Ilyushin IL76-TD used by Teodorin Obiang, Equatorial Guinea for cargo transport"  
   }
 },
 {
@@ -114,7 +121,8 @@
 {
   "country": "Jordan",
   "planes": {
-    "VQ-BDD" : "Airbus A318 Elite used by Jordanian government"
+    "VQ-BDD" : "Airbus A318 Elite used by Jordanian government",
+    "VQ-BMZ" : "Gulfstream G650 used by Jordanian government"
   }
 },
 {
@@ -122,6 +130,7 @@
   "planes": {
     "P4-KAZ"   : "Boeing 737 used by Kazakhstan government",
     "UP-A2001" : "Airbus A320 used by Kazakhstan government",
+    "UP-A2101" : "Airbus A321 used by Kazakhstan government",
     "UP-A3001" : "Airbus A330 used by Kazakhstan government",
     "UP-B5701" : "Boeing 757 used by Kazakhstan government"
   }
@@ -180,12 +189,13 @@
     "http://www.airframes.org/fleet/qaf"
   ],
   "planes": {
-    "VQ-BSK" : "Boeing 747 used by the royal family of Qatar",
+    "VQ-BSK" : "Boeing 748 used by the royal family of Qatar",
     "A7-AAG" : "A320 used by the royal family of Qatar",
     "A7-AAH" : "A340 used by the royal family of Qatar",
     "A7-AAM" : "Bombardier BD-700 used by the royal family of Qatar",
     "A7-AFE" : "A310 used by the royal family of Qatar",
-    "A7-HHE" : "Boeing 747 used by the royal family of Qatar",
+    "A7-HBJ" : "Boeing 748 used by the royal family of Qatar",
+    "A7-HHE" : "Boeing 748 used by the royal family of Qatar",
     "A7-HHH" : "Airbus A340 used by the royal family of Qatar",
     "A7-HHJ" : "Airbus A319 used by the royal family of Qatar",
     "A7-HHK" : "Airbus A340 used by the royal family of Qatar",
@@ -195,7 +205,7 @@
     "A7-MBK" : "Airbus A320 used by the royal family of Qatar",
     "A7-MED" : "Airbus A319 used by the royal family of Qatar",
     "A7-MHH" : "Airbus A319 used by the royal family of Qatar",
-    "VP-BAT" : "Boeing 747 used by the royal family of Qatar"
+    "VP-BAT" : "Boeing 747SP used by the royal family of Qatar"
   }
 },
 {
@@ -242,9 +252,9 @@
     "HZ-WBT5" : "Prince Al Waleed's Hawker",
     "HZ-HMS2" : "Airbus A340 for use by the royal family",
     "HZ-HMS1" : "Boeing 747 registered to Prince Sultan Bin Abdulaziz",
-    "HZ-HM1B" : "Boeing 747 for the use of the royal family",
+    "HZ-HM1B" : "Boeing 747SP for the use of the royal family",
     "HZ-HM1A" : "Boeing 747 for the use of the royal family",
-    "HZ-HM1C" : "Boeing 747 for the use of the royal family"
+    "HZ-HM1C" : "Boeing 747SP for the use of the royal family"
   }
 },
 {
@@ -270,29 +280,28 @@
 		"country": "United Arab Emirates",
 		"source": [
 		"http://www.airplane-pictures.net/operator.php?p=3238",
-		"http://www.airfleets.net/flottecie/United%20Arab%20Emirates%20Gvmt.htm"
+		"http://www.airfleets.net/flottecie/United%20Arab%20Emirates%20Gvmt.htm",
+		"http://www.airframes.org/airlines/icao/dub"	
 		],
 		"planes": {
-			"A6-PFC": "Boeing 787 used by the UAE government",
 			"A6-ALN": "Boeing 777 used by the UAE government",
-			"A6-MMM": "Boeing 747 used by the UAE government",
-			"A6-COM": "Boeing 747 used by the UAE government",
-			"A6-DLM": "Airbus A320 used by the UAE government",
-			"A6-PFA": "Boeing 747 used by the UAE government",
-			"A6-HMS": "Airbus A320 used by the UAE government",
-			"A6-SIL": "Boeing 777 used by the UAE government",
-			"A6-HRM": "Boeing 747 used by the UAE government",
-			"A6-HHH": "Gulfstream IV used by the UAE government",
-			"A6-HRS": "Boeing 737 used by the UAE government",
-			"A6-ESH": " Airbus A319 used by the UAE government",
-			"A6-MRS": "Boeing 737 used by the UAE government",
-			"A6-MRM": "Boeing 737 used by the UAE government",
-			"A6-UAE": "Boeing 747 used by the UAE government",
-			"A6-YAS": "Boeing 747 used by the UAE government",
-			"A6-GGP": "Boeing 747 used by the UAE government",
 			"A6-AUH": "Boeing 737 used by the UAE government",
 			"A6-CJE": "Airbus A319 used by the UAE government",
-			"A6-HEH": "Boeing 737 used by the UAE government"
+			"A6-COM": "Boeing 744 used by the UAE government",
+			"A6-DLM": "Airbus A320 used by the UAE government",
+			"A6-ESH": " Airbus A319 used by the UAE government",
+			"A6-GGP": "Boeing 74F used by the UAE government for cargo transport",
+			"A6-HEH": "Boeing 737 used by the UAE government",
+			"A6-HHH": "Gulfstream IV used by the UAE government",
+			"A6-HMS": "Airbus A320 used by the UAE government",
+			"A6-HRM": "Boeing 744 used by the UAE government",
+			"A6-HRS": "Boeing 737 used by the UAE government",
+			"A6-MMM": "Boeing 747 used by the UAE government",
+			"A6-MRM": "Boeing 737 used by the UAE government",
+			"A6-MRS": "Boeing 737 used by the UAE government",
+			"A6-PFA": "Boeing 748 used by the UAE government",
+			"A6-PFC": "Boeing 787 used by the UAE government",
+			"A6-SIL": "Boeing 777 used by the UAE government"
 	}
 },
 {
