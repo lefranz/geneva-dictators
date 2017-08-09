@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/lefranz/geneva-dictators.svg?branch=master)](https://travis-ci.org/lefranz/geneva-dictators)
 
-##Important note:## this code is not in use on the [GVA Dictator Alert](https://twitter.com/GVA_Watcher) twitter account anymore. It has been replaced by a more advanced version. Feel free to use this code for your own purposes. The actual list of tracked aircrafts can be found on [DictatorAlert.org](http://dictatoralert.org/)
+## Important note:
+this code is not in use on the [GVA Dictator Alert](https://twitter.com/GVA_Watcher) twitter account anymore. It has been replaced by a more advanced version. Feel free to use this code for your own purposes. The actual list of tracked aircrafts can be found on [DictatorAlert.org](http://dictatoralert.org/)
 
 
 #  GVA Dictator Alert
